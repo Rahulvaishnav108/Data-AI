@@ -55,7 +55,9 @@ def run_pipeline(
 
     print("\n[3/4] Exporting results...")
     ranked.to_csv(output_path / "ranked_candidates.csv", index=False)
+    ranked.to_excel(output_path / "ranked_candidates.xlsx", index=False)
     ranked.head(50).to_csv(output_path / "shortlist_top50.csv", index=False)
+    ranked.head(50).to_excel(output_path / "shortlist_top50.xlsx", index=False)
 
     cfg = DEFAULT_CONFIG
     summary = {

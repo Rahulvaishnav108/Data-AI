@@ -59,7 +59,9 @@ python main.py
 | File | Description |
 |---|---|
 | `output/ranked_candidates.csv` | Full ranked list (all candidates) |
+| `output/ranked_candidates.xlsx` | Full ranked list in XLSX format |
 | `output/shortlist_top50.csv` | Recruiter-ready top-50 shortlist |
+| `output/shortlist_top50.xlsx` | Recruiter-ready top-50 shortlist in XLSX format |
 | `output/ranking_summary.json` | Score stats + top 10 + methodology |
 | `output/CIRS_Approach_Deck.pdf` | Architecture & methodology deck |
 
