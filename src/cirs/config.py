@@ -12,16 +12,16 @@ class ScoringConfig:
     experience: float = 0.22
     platform_signals: float = 0.18
     education: float = 0.10
-    fit: float = 0.10
+    fit: float = 0.12
     behavioral: float = 0.10
 
     # Top-level hybrid blend: rule-based vs semantic profile match
-    rule_based_blend: float = 0.65
-    semantic_blend: float = 0.35
+    rule_based_blend: float = 0.60
+    semantic_blend: float = 0.40
 
     # Skill sub-scorer: exact/synonym vs semantic skill overlap
-    skill_exact_blend: float = 0.65
-    skill_semantic_blend: float = 0.35
+    skill_exact_blend: float = 0.55
+    skill_semantic_blend: float = 0.45
 
     def dimension_weights(self) -> dict[str, float]:
         return {

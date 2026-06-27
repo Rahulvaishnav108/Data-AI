@@ -20,28 +20,43 @@ def normalize_skill(skill: str) -> str:
     return s
 
 
+def split_skill_options(skill: str) -> list[str]:
+    skill_text = skill.lower().strip()
+    skill_text = skill_text.replace("/", " or ")
+    skill_text = skill_text.replace(",", " or ")
+    options = [opt.strip() for opt in re.split(r"\s+or\s+", skill_text) if opt.strip()]
+    return [normalize_skill(option) for option in options]
+
+
 def exact_skill_match_score(
     candidate_skills: list[str], jd_required: list[str], jd_nice: list[str]
 ) -> dict:
     cand_norm = {normalize_skill(s) for s in candidate_skills}
-    req_norm = [normalize_skill(s) for s in jd_required]
-    nice_norm = [normalize_skill(s) for s in jd_nice]
+    req_norm_options = [split_skill_options(s) for s in jd_required]
+    nice_norm_options = [split_skill_options(s) for s in jd_nice]
 
-    req_hits = sum(1 for s in req_norm if s in cand_norm)
-    nice_hits = sum(1 for s in nice_norm if s in cand_norm)
+    req_hits = sum(1 for options in req_norm_options if any(opt in cand_norm for opt in options))
+    nice_hits = sum(1 for options in nice_norm_options if any(opt in cand_norm for opt in options))
 
-    req_coverage = req_hits / max(len(req_norm), 1)
-    nice_coverage = nice_hits / max(len(nice_norm), 1)
+    req_coverage = req_hits / max(len(req_norm_options), 1)
+    nice_coverage = nice_hits / max(len(nice_norm_options), 1)
     raw = (req_coverage * 0.70) + (nice_coverage * 0.30)
     score = round(raw * 100, 2)
+
+    matched_skills = []
+    for options in req_norm_options:
+        for opt in options:
+            if opt in cand_norm:
+                matched_skills.append(opt)
+                break
 
     return {
         "score": score,
         "required_matched": req_hits,
-        "required_total": len(req_norm),
+        "required_total": len(req_norm_options),
         "nice_matched": nice_hits,
-        "nice_total": len(nice_norm),
-        "matched_skills": [s for s in req_norm if s in cand_norm],
+        "nice_total": len(nice_norm_options),
+        "matched_skills": matched_skills,
     }
 
 

@@ -7,6 +7,7 @@ import logging
 from pathlib import Path
 
 from cirs.config import DEFAULT_CONFIG
+from cirs.data_loader import load_candidates, load_job_description
 from cirs.hybrid_ranker import rank_candidates
 
 logger = logging.getLogger(__name__)
@@ -25,14 +26,16 @@ def run_pipeline(
     output_path.mkdir(exist_ok=True)
 
     candidates_file = data_path / "candidates.json"
+    candidates_csv = data_path / "candidates.csv"
     jd_file = data_path / "job_description.json"
+    jd_csv = data_path / "job_description.csv"
 
     print("=" * 60)
     print("  CIRS — Candidate Intelligent Ranking System v2")
     print("  India Runs Data & AI Challenge | Redrob")
     print("=" * 60)
 
-    if not candidates_file.exists() or not jd_file.exists():
+    if not any(path.exists() for path in [candidates_file, candidates_csv, jd_file, jd_csv]):
         print("\n[1/4] Generating synthetic dataset...")
         from generate_dataset import generate_all
 
@@ -40,12 +43,10 @@ def run_pipeline(
     else:
         print("\n[1/4] Loading existing dataset...")
 
-    with open(candidates_file, encoding="utf-8") as f:
-        candidates = json.load(f)
-    with open(jd_file, encoding="utf-8") as f:
-        jd = json.load(f)
+    candidates = load_candidates(data_path)
+    jd = load_job_description(data_path)
 
-    print(f"   OK  {len(candidates)} candidates | JD: {jd['title']}")
+    print(f"   OK  {len(candidates)} candidates | JD: {jd.get('title', 'Unknown')}")
 
     print("\n[2/4] Running hybrid AI ranking (rule-based + semantic)...")
     ranked = rank_candidates(candidates, jd, DEFAULT_CONFIG)

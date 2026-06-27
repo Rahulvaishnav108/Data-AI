@@ -9,6 +9,7 @@ import pytest
 ROOT = Path(__file__).parent.parent
 sys.path.insert(0, str(ROOT / "src"))
 
+from cirs.data_loader import load_candidates, load_job_description  # noqa: E402
 from cirs.hybrid_ranker import rank_candidates  # noqa: E402
 from cirs.scorers import normalize_skill, exact_skill_match_score  # noqa: E402
 from cirs.semantic import SemanticEngine  # noqa: E402
@@ -106,6 +107,25 @@ def test_rank_candidates_scores_in_range(sample_candidates, sample_jd):
     df = rank_candidates(sample_candidates, sample_jd)
     for col in ["composite_score", "semantic_profile_score", "skill_match_score", "rule_based_score"]:
         assert df[col].between(0, 100).all()
+
+
+def test_loader_supports_csv(tmp_path, sample_jd):
+    csv_content = (
+        "candidate_id,years_experience,career_stage,college_tier,cgpa,skills,certifications,github_stars,github_contributions,github_prs,linkedin_connections,linkedin_recommendations,posts_last_6m,notice_period_days,expected_ctc_lpa,location\n"
+        "CAND_9999,5,mid,IIT,8.9,Python;ML;NLP,1,120,300,10,400,5,20,30,35.0,Bangalore\n"
+    )
+    data_dir = tmp_path / "data"
+    data_dir.mkdir()
+    (data_dir / "candidates.csv").write_text(csv_content, encoding="utf-8")
+    (data_dir / "job_description.json").write_text(json.dumps(sample_jd), encoding="utf-8")
+
+    candidates = load_candidates(data_dir)
+    assert isinstance(candidates, list)
+    assert candidates[0]["candidate_id"] == "CAND_9999"
+    assert 0 <= candidates[0]["years_of_experience"] <= 10
+
+    df = rank_candidates(candidates, sample_jd)
+    assert df.iloc[0]["candidate_id"] == "CAND_9999"
 
 
 def test_integration_with_real_data():

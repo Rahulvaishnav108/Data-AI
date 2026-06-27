@@ -84,7 +84,7 @@ def divider(color=ACCENT, thickness=1):
 def spacer(h=0.3):
     return Spacer(1, h * cm)
 
-def build_pdf(output_path: str):
+def build_pdf(output_path: str, ranked=None, jd=None):
     doc = SimpleDocTemplate(
         output_path,
         pagesize=A4,
@@ -300,11 +300,22 @@ def build_pdf(output_path: str):
     story.append(divider())
 
     # Metrics row
+    if ranked is not None and not ranked.empty:
+        candidates_ranked = str(len(ranked))
+        top_score = f"{ranked['composite_score'].max():.1f}"
+        mean_score = f"{ranked['composite_score'].mean():.1f}"
+        lowest_score = f"{ranked['composite_score'].min():.1f}"
+    else:
+        candidates_ranked = "500"
+        top_score = "62.5"
+        mean_score = "41.8"
+        lowest_score = "23.1"
+
     metrics = [
-        ("500", "Candidates Ranked"),
-        ("62.5", "Top Score"),
-        ("41.8", "Mean Score"),
-        ("23.1", "Lowest Score"),
+        (candidates_ranked, "Candidates Ranked"),
+        (top_score, "Top Score"),
+        (mean_score, "Mean Score"),
+        (lowest_score, "Lowest Score"),
     ]
     met_table = Table([[
         Paragraph(val, s["metric"]) for val, _ in metrics
@@ -324,14 +335,26 @@ def build_pdf(output_path: str):
     story.append(Paragraph("Sample Top-10 Rankings", ParagraphStyle("th", fontName="Helvetica-Bold", fontSize=12)))
     story.append(spacer(0.2))
 
-    table_data = [
-        ["Rank", "Candidate ID", "Composite", "Skill Match", "Experience", "Platform", "Stage"],
-        ["1", "CAND_0126", "62.5", "38.8", "95.8", "47.1", "senior"],
-        ["2", "CAND_0281", "61.7", "21.3", "77.4", "85.5", "mid"],
-        ["3", "CAND_0379", "60.7", "35.0", "87.8", "55.3", "mid"],
-        ["4", "CAND_0215", "59.5", "16.3", "100.0", "58.4", "mid"],
-        ["5", "CAND_0186", "59.1", "17.5", "91.5", "84.0", "mid"],
-    ]
+    table_data = [["Rank", "Candidate ID", "Composite", "Skill Match", "Experience", "Platform", "Stage"]]
+    if ranked is not None and not ranked.empty:
+        for _, row in ranked.head(5).iterrows():
+            table_data.append([
+                str(int(row["rank"])),
+                str(row["candidate_id"]),
+                f"{row["composite_score"]:.1f}",
+                f"{row["skill_match_score"]:.1f}",
+                f"{row["experience_score"]:.1f}",
+                f"{row["platform_score"]:.1f}",
+                str(row["career_stage"]),
+            ])
+    else:
+        table_data.extend([
+            ["1", "CAND_0126", "62.5", "38.8", "95.8", "47.1", "senior"],
+            ["2", "CAND_0281", "61.7", "21.3", "77.4", "85.5", "mid"],
+            ["3", "CAND_0379", "60.7", "35.0", "87.8", "55.3", "mid"],
+            ["4", "CAND_0215", "59.5", "16.3", "100.0", "58.4", "mid"],
+            ["5", "CAND_0186", "59.1", "17.5", "91.5", "84.0", "mid"],
+        ])
 
     res_table = Table(table_data, colWidths=[1.5*cm, 3.5*cm, 2.2*cm, 2.2*cm, 2.2*cm, 2.2*cm, 1.5*cm])
     res_table.setStyle(TableStyle([
@@ -465,8 +488,8 @@ def build_pdf(output_path: str):
 
 
 def generate_deck(output_path: str, ranked=None, jd=None) -> None:
-    """Generate the CIRS approach deck PDF (ranked/jd reserved for future dynamic slides)."""
-    build_pdf(output_path)
+    """Generate the CIRS approach deck PDF."""
+    build_pdf(output_path, ranked=ranked, jd=jd)
 
 
 if __name__ == "__main__":

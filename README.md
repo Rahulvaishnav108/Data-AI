@@ -31,11 +31,28 @@ CIRS is a **hybrid AI ranking engine** that evaluates candidates across six rule
 
 ## Quick Start
 
+1. Create and activate a Python environment:
+
 ```bash
 cd candidate-ranking
+python -m venv .venv
+source .venv/bin/activate   # macOS / Linux
+.venv\Scripts\activate    # Windows
+```
+
+2. Install requirements:
+
+```bash
 pip install -r requirements.txt
+```
+
+3. Run the ranking pipeline:
+
+```bash
 python main.py
 ```
+
+4. Verify outputs in `output/`.
 
 ### Outputs
 
@@ -133,6 +150,25 @@ The engine auto-detects and uses `all-MiniLM-L6-v2` when available.
 - **LLM ranking**: Add `OPENAI_API_KEY` and plug an LLM re-ranker on top-50
 - **Fine-tune weights**: Edit `src/cirs/config.py` → `ScoringConfig`
 - **Real datasets**: Replace `data/candidates.json` and `data/job_description.json`
+
+## For Invigilators
+
+- The complete solution is in `main.py` and the `src/cirs/` package.
+- Run the full pipeline with:
+
+```bash
+python main.py
+```
+
+- Verify correctness using:
+
+```bash
+python -m pytest tests -q
+```
+
+- The system supports both `data/candidates.json` and `data/candidates.csv` inputs.
+- Outputs are generated in `output/`, including the ranked CSV, top-50 shortlist, summary JSON, and PDF deck.
+- `requirements.txt` lists the required dependencies; no external API keys are needed.
 
 ---
 
