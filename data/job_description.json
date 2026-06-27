@@ -1,0 +1,45 @@
+{
+  "job_id": "JD_001",
+  "title": "Senior Machine Learning Engineer",
+  "company": "Redrob AI",
+  "location": "Bangalore (Hybrid)",
+  "experience_required": "3-7 years",
+  "required_skills": [
+    "Python",
+    "Machine Learning",
+    "NLP",
+    "PyTorch or TensorFlow",
+    "SQL",
+    "REST API",
+    "Docker",
+    "Git"
+  ],
+  "good_to_have": [
+    "LLMs",
+    "RAG",
+    "Vector Databases",
+    "Kubernetes",
+    "MLflow",
+    "LangChain",
+    "AWS or GCP",
+    "FastAPI"
+  ],
+  "responsibilities": [
+    "Design and deploy production ML models at scale",
+    "Build NLP pipelines for candidate matching and ranking",
+    "Collaborate with product and data teams on AI features",
+    "Mentor junior engineers and conduct code reviews",
+    "Optimize model performance and inference speed"
+  ],
+  "preferred_background": [
+    "Strong open-source contributions",
+    "Experience at product-led companies",
+    "Published papers or technical blog posts a plus"
+  ],
+  "education": "B.Tech/M.Tech in CS or related field preferred",
+  "ctc_range_lpa": [
+    20,
+    50
+  ],
+  "notice_period_max_days": 60
+}

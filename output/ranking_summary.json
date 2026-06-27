@@ -1,0 +1,137 @@
+{
+  "total_candidates": 500,
+  "job_title": "Senior Machine Learning Engineer",
+  "ranking_approach": "hybrid (rule-based + semantic embeddings)",
+  "semantic_backend": "hybrid (tfidf)",
+  "top_10": [
+    {
+      "rank": 1,
+      "candidate_id": "CAND_0281",
+      "composite_score": 62.42,
+      "rule_based_score": 68.66,
+      "semantic_profile_score": 50.82,
+      "skill_match_score": 32.79,
+      "years_experience": 3,
+      "career_stage": "mid",
+      "college_tier": "IIT"
+    },
+    {
+      "rank": 2,
+      "candidate_id": "CAND_0186",
+      "composite_score": 61.66,
+      "rule_based_score": 67.42,
+      "semantic_profile_score": 50.97,
+      "skill_match_score": 29.64,
+      "years_experience": 3,
+      "career_stage": "mid",
+      "college_tier": "Tier-3"
+    },
+    {
+      "rank": 3,
+      "candidate_id": "CAND_0126",
+      "composite_score": 61.11,
+      "rule_based_score": 66.36,
+      "semantic_profile_score": 51.36,
+      "skill_match_score": 43.91,
+      "years_experience": 7,
+      "career_stage": "senior",
+      "college_tier": "NIT"
+    },
+    {
+      "rank": 4,
+      "candidate_id": "CAND_0093",
+      "composite_score": 60.98,
+      "rule_based_score": 66.14,
+      "semantic_profile_score": 51.39,
+      "skill_match_score": 29.96,
+      "years_experience": 5,
+      "career_stage": "mid",
+      "college_tier": "IIT"
+    },
+    {
+      "rank": 5,
+      "candidate_id": "CAND_0215",
+      "composite_score": 60.41,
+      "rule_based_score": 65.48,
+      "semantic_profile_score": 50.98,
+      "skill_match_score": 29.15,
+      "years_experience": 4,
+      "career_stage": "mid",
+      "college_tier": "IIT"
+    },
+    {
+      "rank": 6,
+      "candidate_id": "CAND_0438",
+      "composite_score": 60.21,
+      "rule_based_score": 65.29,
+      "semantic_profile_score": 50.78,
+      "skill_match_score": 27.08,
+      "years_experience": 4,
+      "career_stage": "mid",
+      "college_tier": "IIT"
+    },
+    {
+      "rank": 7,
+      "candidate_id": "CAND_0337",
+      "composite_score": 60.2,
+      "rule_based_score": 64.93,
+      "semantic_profile_score": 51.42,
+      "skill_match_score": 32.31,
+      "years_experience": 9,
+      "career_stage": "senior",
+      "college_tier": "Tier-2"
+    },
+    {
+      "rank": 8,
+      "candidate_id": "CAND_0111",
+      "composite_score": 60.01,
+      "rule_based_score": 64.44,
+      "semantic_profile_score": 51.78,
+      "skill_match_score": 31.53,
+      "years_experience": 5,
+      "career_stage": "mid",
+      "college_tier": "BITS"
+    },
+    {
+      "rank": 9,
+      "candidate_id": "CAND_0039",
+      "composite_score": 59.9,
+      "rule_based_score": 64.64,
+      "semantic_profile_score": 51.1,
+      "skill_match_score": 33.62,
+      "years_experience": 4,
+      "career_stage": "mid",
+      "college_tier": "IIT"
+    },
+    {
+      "rank": 10,
+      "candidate_id": "CAND_0109",
+      "composite_score": 59.75,
+      "rule_based_score": 64.31,
+      "semantic_profile_score": 51.27,
+      "skill_match_score": 36.02,
+      "years_experience": 2,
+      "career_stage": "mid",
+      "college_tier": "NIT"
+    }
+  ],
+  "score_stats": {
+    "count": 500.0,
+    "mean": 49.33,
+    "std": 5.25,
+    "min": 37.07,
+    "25%": 45.62,
+    "50%": 49.56,
+    "75%": 53.03,
+    "max": 62.42
+  },
+  "weights_used": {
+    "hybrid_blend": "65% rule-based + 35% semantic",
+    "skill_match": "30%",
+    "experience": "22%",
+    "platform_signals": "18%",
+    "education": "10%",
+    "fit": "10%",
+    "behavioral": "10%"
+  }
+}

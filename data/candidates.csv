@@ -1,0 +1,501 @@
+candidate_id,years_experience,career_stage,college_tier,cgpa,num_skills,skills,certifications,github_stars,github_contributions,github_prs,linkedin_connections,linkedin_recommendations,notice_period_days,expected_ctc_lpa,location
+CAND_0001,0,junior,NIT,6.53,7,"ML, Airflow, R, Python, SQL, PyTorch, Scikit-learn",1,198,316,31,3076,14,60,9.4,Chennai
+CAND_0002,2,junior,Tier-3,8.04,7,"Computer Vision, NLP, Spark, ML, PyTorch, SQL, R",1,8,99,10,215,0,15,13.2,Delhi
+CAND_0003,4,mid,NIT,9.12,8,"PyTorch, ML, RAG, Power BI, MLflow, Snowflake, Hadoop, dbt",3,13,86,1,497,9,90,52.2,Remote
+CAND_0004,6,senior,Tier-2,6.42,14,"Vector Databases, MLflow, XGBoost, BigQuery, TensorFlow, LLMs, Pandas, Tableau, NLP, PyTorch, SQL, Computer Vision, Hadoop, dbt",2,5,43,8,273,3,60,59.7,Hyderabad
+CAND_0005,0,junior,NIT,6.85,7,"ML, Scikit-learn, Python, SQL, Computer Vision, R, Vector Databases",2,1380,984,112,4674,23,30,27.7,Mumbai
+CAND_0006,2,mid,Tier-2,8.77,6,"Statistics, dbt, NumPy, Airflow, TensorFlow, XGBoost",0,12,17,2,3904,10,90,41.1,Ahmedabad
+CAND_0007,4,mid,IIT,8.2,10,"R, ML, Snowflake, BigQuery, LLMs, TensorFlow, MLflow, Computer Vision, SQL, NLP",0,6,95,5,422,7,0,4.5,Pune
+CAND_0008,2,junior,NIT,7.92,3,"Spark, Tableau, TensorFlow",0,59,239,28,204,1,30,54.7,Pune
+CAND_0009,1,junior,IIT,6.01,5,"Vector Databases, dbt, Statistics, RAG, Airflow",1,1830,1495,60,280,2,30,47.7,Hyderabad
+CAND_0010,0,fresher,NIT,9.71,3,"Vector Databases, Power BI, Airflow",1,6,68,5,128,1,30,52.4,Hyderabad
+CAND_0011,0,fresher,Tier-2,8.58,4,"TensorFlow, ML, XGBoost, R",2,1093,501,183,773,6,30,38.9,Mumbai
+CAND_0012,2,junior,BITS,8.53,5,"PyTorch, Airflow, LLMs, Hadoop, Vector Databases",2,188,143,28,181,2,15,49.2,Hyderabad
+CAND_0013,5,senior,IIT,7.73,11,"Hadoop, Scikit-learn, NumPy, Computer Vision, Python, Pandas, Airflow, Vector Databases, TensorFlow, dbt, LLMs",2,1192,1141,111,440,10,30,54.0,Hyderabad
+CAND_0014,7,senior,IIT,8.68,9,"Statistics, dbt, Airflow, R, PyTorch, RAG, Hadoop, Python, ML",3,4,89,8,56,3,60,11.6,Bangalore
+CAND_0015,4,mid,Tier-2,6.8,7,"MLflow, Airflow, XGBoost, SQL, Snowflake, Python, Statistics",0,18,37,7,658,7,15,58.0,Mumbai
+CAND_0016,5,senior,Tier-2,7.51,11,"Pandas, RAG, Tableau, LLMs, NLP, MLflow, ML, R, Spark, Airflow, Power BI",2,2,45,7,2797,24,60,51.7,Kolkata
+CAND_0017,4,mid,Tier-2,7.06,9,"SQL, Scikit-learn, Airflow, Snowflake, Statistics, Vector Databases, LLMs, ML, dbt",3,100,161,44,786,5,90,58.7,Ahmedabad
+CAND_0018,0,junior,BITS,6.86,3,"XGBoost, R, Statistics",3,49,133,35,175,0,90,57.2,Bangalore
+CAND_0019,8,senior,Tier-3,8.3,11,"dbt, Tableau, ML, Airflow, Vector Databases, RAG, R, Pandas, PyTorch, BigQuery, NumPy",0,6,64,1,578,6,15,48.4,Delhi
+CAND_0020,0,junior,Tier-3,8.62,7,"dbt, SQL, NLP, R, Airflow, Power BI, XGBoost",0,1398,946,175,1547,25,0,52.0,Chennai
+CAND_0021,4,mid,Tier-2,9.09,8,"XGBoost, Power BI, Pandas, Hadoop, BigQuery, Python, Statistics, dbt",3,81,463,20,459,3,0,29.8,Mumbai
+CAND_0022,7,senior,BITS,7.93,12,"Scikit-learn, dbt, Statistics, NumPy, Hadoop, PyTorch, BigQuery, LLMs, SQL, XGBoost, Computer Vision, Vector Databases",3,18,59,3,269,3,60,25.6,Ahmedabad
+CAND_0023,0,junior,IIT,7.91,6,"BigQuery, dbt, Python, NumPy, Airflow, LLMs",2,1671,1408,174,273,0,30,59.9,Hyderabad
+CAND_0024,2,junior,IIT,7.69,3,"R, Tableau, Spark",1,675,972,115,535,7,15,8.1,Pune
+CAND_0025,0,fresher,BITS,7.74,5,"Pandas, Scikit-learn, Hadoop, ML, Spark",2,78,410,32,106,1,0,21.3,Delhi
+CAND_0026,3,mid,BITS,7.24,6,"Statistics, Spark, BigQuery, RAG, XGBoost, TensorFlow",2,0,43,8,363,10,30,10.1,Kolkata
+CAND_0027,4,mid,NIT,8.46,10,"Pandas, NumPy, R, RAG, Tableau, Snowflake, MLflow, ML, Scikit-learn, Vector Databases",3,75,327,38,293,1,30,7.4,Chennai
+CAND_0028,5,mid,NIT,8.44,5,"NumPy, ML, PyTorch, SQL, MLflow",0,4,11,5,252,1,0,11.1,Bangalore
+CAND_0029,2,mid,Tier-3,8.96,8,"NLP, R, LLMs, BigQuery, Tableau, dbt, Python, Vector Databases",3,155,250,39,4941,29,90,44.4,Mumbai
+CAND_0030,3,mid,Tier-2,9.14,8,"Airflow, Power BI, LLMs, XGBoost, Spark, NumPy, Snowflake, SQL",1,789,1114,129,480,4,60,16.6,Hyderabad
+CAND_0031,10,senior,NIT,9.07,8,"TensorFlow, XGBoost, RAG, Tableau, Power BI, Spark, Python, MLflow",2,144,410,38,4192,18,60,10.2,Remote
+CAND_0032,0,junior,NIT,7.5,4,"PyTorch, MLflow, NumPy, XGBoost",3,131,109,39,1437,20,60,20.2,Kolkata
+CAND_0033,3,mid,Tier-3,9.16,5,"Scikit-learn, Airflow, ML, Hadoop, BigQuery",1,11,92,2,420,4,15,46.6,Hyderabad
+CAND_0034,1,junior,Tier-3,8.59,5,"dbt, SQL, Snowflake, Computer Vision, Tableau",3,118,336,47,1136,24,60,32.1,Hyderabad
+CAND_0035,0,fresher,IIT,7.92,5,"dbt, BigQuery, NLP, TensorFlow, Spark",3,58,270,15,598,5,0,21.3,Kolkata
+CAND_0036,3,mid,IIT,8.45,9,"Spark, Tableau, TensorFlow, PyTorch, Power BI, Snowflake, LLMs, Scikit-learn, NumPy",1,7,66,9,122,3,60,54.6,Hyderabad
+CAND_0037,5,mid,Tier-2,7.91,6,"XGBoost, R, Computer Vision, Snowflake, Spark, Statistics",3,2,57,3,1030,20,15,6.1,Chennai
+CAND_0038,0,fresher,Tier-3,7.7,4,"PyTorch, NumPy, Statistics, Vector Databases",2,147,405,44,308,6,30,17.5,Kolkata
+CAND_0039,4,mid,IIT,7.48,5,"XGBoost, Vector Databases, Python, Spark, SQL",2,608,1407,60,461,7,0,46.2,Remote
+CAND_0040,2,mid,Tier-2,7.04,8,"Hadoop, Power BI, TensorFlow, Snowflake, LLMs, Spark, BigQuery, XGBoost",1,541,1206,163,479,10,0,8.2,Kolkata
+CAND_0041,0,junior,IIT,9.22,4,"Scikit-learn, MLflow, Computer Vision, Spark",0,55,371,33,151,2,0,45.2,Hyderabad
+CAND_0042,2,mid,BITS,8.68,9,"PyTorch, Pandas, NumPy, SQL, dbt, TensorFlow, Computer Vision, LLMs, Power BI",2,15,13,5,583,8,0,7.7,Delhi
+CAND_0043,5,mid,IIT,6.48,10,"dbt, LLMs, BigQuery, Spark, NumPy, Statistics, ML, TensorFlow, Computer Vision, Airflow",1,1292,595,178,214,1,90,44.4,Delhi
+CAND_0044,0,junior,IIT,9.6,4,"NLP, Computer Vision, Python, Snowflake",2,15,69,3,474,5,15,46.6,Chennai
+CAND_0045,0,junior,Tier-3,6.47,4,"R, Tableau, Hadoop, NLP",1,147,257,41,55,0,15,36.7,Ahmedabad
+CAND_0046,9,senior,Tier-3,7.09,8,"XGBoost, Vector Databases, Spark, Hadoop, RAG, R, LLMs, NLP",2,150,305,42,60,0,90,29.6,Chennai
+CAND_0047,2,junior,Tier-2,6.62,5,"RAG, ML, Tableau, Snowflake, Python",2,12,28,10,112,0,60,21.6,Mumbai
+CAND_0048,5,mid,Tier-3,9.32,10,"Statistics, Power BI, LLMs, Snowflake, BigQuery, Hadoop, Vector Databases, TensorFlow, dbt, ML",1,90,247,17,3910,22,30,57.5,Delhi
+CAND_0049,12,senior,Tier-3,6.81,12,"Pandas, NLP, ML, Scikit-learn, LLMs, R, BigQuery, Computer Vision, Statistics, Vector Databases, Snowflake, PyTorch",2,94,119,10,3244,28,90,33.4,Pune
+CAND_0050,0,fresher,NIT,9.07,4,"RAG, TensorFlow, Python, Vector Databases",1,67,171,40,465,6,30,57.4,Kolkata
+CAND_0051,4,mid,Tier-2,8.63,10,"Tableau, TensorFlow, Hadoop, LLMs, BigQuery, MLflow, Pandas, NLP, Spark, Scikit-learn",2,39,388,17,65,1,90,28.7,Delhi
+CAND_0052,2,junior,Tier-3,9.07,7,"dbt, ML, R, Statistics, MLflow, Tableau, Python",0,15,14,4,509,5,60,29.1,Chennai
+CAND_0053,0,fresher,IIT,8.48,5,"BigQuery, NumPy, Vector Databases, Scikit-learn, Python",3,1,94,6,207,0,0,29.0,Mumbai
+CAND_0054,2,junior,IIT,7.53,4,"NumPy, BigQuery, Tableau, Scikit-learn",2,64,420,37,192,3,30,43.0,Kolkata
+CAND_0055,5,mid,Tier-3,6.92,7,"R, Statistics, Airflow, RAG, Vector Databases, BigQuery, NumPy",0,17,37,7,103,2,0,45.8,Hyderabad
+CAND_0056,1,junior,NIT,8.1,6,"Tableau, XGBoost, Spark, BigQuery, Snowflake, dbt",1,8,80,9,596,9,60,35.9,Hyderabad
+CAND_0057,4,mid,Tier-3,7.75,6,"TensorFlow, Statistics, Computer Vision, R, BigQuery, LLMs",1,0,12,8,3050,27,60,49.1,Remote
+CAND_0058,0,fresher,IIT,6.92,5,"SQL, Spark, Hadoop, dbt, ML",2,22,459,20,342,10,0,16.9,Mumbai
+CAND_0059,0,fresher,IIT,8.6,2,"TensorFlow, Power BI",1,879,893,85,1442,26,0,23.1,Mumbai
+CAND_0060,0,junior,BITS,8.98,4,"Statistics, Hadoop, Airflow, TensorFlow",0,12,91,2,678,9,30,28.9,Mumbai
+CAND_0061,0,junior,NIT,7.64,3,"Spark, Statistics, SQL",3,55,237,29,118,3,60,20.8,Delhi
+CAND_0062,0,junior,Tier-3,8.26,3,"Tableau, Python, Hadoop",2,121,263,28,676,10,60,24.4,Chennai
+CAND_0063,0,fresher,IIT,9.62,5,"Tableau, RAG, SQL, Airflow, LLMs",1,142,398,35,573,9,90,37.3,Chennai
+CAND_0064,0,fresher,Tier-2,6.63,4,"Airflow, Pandas, Python, XGBoost",1,143,153,28,512,4,60,47.9,Chennai
+CAND_0065,0,junior,Tier-3,8.74,3,"R, RAG, Pandas",0,1146,737,153,622,5,90,53.5,Kolkata
+CAND_0066,5,mid,NIT,6.78,9,"Spark, Power BI, PyTorch, dbt, Pandas, XGBoost, Snowflake, BigQuery, Vector Databases",3,66,291,19,561,9,60,39.6,Kolkata
+CAND_0067,1,junior,BITS,6.53,7,"Spark, Python, Snowflake, NumPy, PyTorch, Hadoop, Statistics",3,93,186,39,589,10,30,47.4,Mumbai
+CAND_0068,2,junior,Tier-3,8.08,4,"R, dbt, XGBoost, Spark",1,1,82,5,3102,29,30,20.2,Chennai
+CAND_0069,3,mid,IIT,9.77,10,"NumPy, RAG, Power BI, Scikit-learn, Hadoop, Snowflake, MLflow, XGBoost, Airflow, Computer Vision",3,6,64,3,176,2,15,35.7,Chennai
+CAND_0070,2,mid,IIT,8.38,5,"dbt, Python, Airflow, PyTorch, RAG",2,1686,1216,109,159,0,15,37.2,Hyderabad
+CAND_0071,0,junior,Tier-2,9.11,4,"SQL, Scikit-learn, Hadoop, Vector Databases",2,14,54,3,2040,23,15,46.1,Mumbai
+CAND_0072,1,junior,Tier-2,9.01,3,"Statistics, NLP, Vector Databases",2,7,73,10,604,4,15,25.7,Chennai
+CAND_0073,2,junior,NIT,8.9,7,"Python, XGBoost, PyTorch, R, LLMs, Hadoop, BigQuery",1,157,267,35,600,4,0,55.8,Hyderabad
+CAND_0074,5,senior,NIT,6.45,10,"Snowflake, Spark, BigQuery, RAG, XGBoost, TensorFlow, Vector Databases, NumPy, Computer Vision, Pandas",0,192,470,17,2671,26,60,24.4,Bangalore
+CAND_0075,0,fresher,Tier-3,6.85,4,"SQL, ML, Spark, Pandas",1,99,267,15,191,3,30,45.4,Hyderabad
+CAND_0076,5,mid,NIT,6.57,5,"Computer Vision, RAG, Python, Power BI, MLflow",1,1931,1032,155,658,8,60,8.2,Mumbai
+CAND_0077,0,junior,BITS,6.99,5,"dbt, XGBoost, Scikit-learn, SQL, PyTorch",0,1297,866,103,165,2,30,50.3,Mumbai
+CAND_0078,1,junior,IIT,6.35,6,"LLMs, Tableau, XGBoost, TensorFlow, Python, Hadoop",1,1605,1145,71,2920,12,60,49.3,Hyderabad
+CAND_0079,10,senior,Tier-3,6.19,14,"Python, Hadoop, LLMs, Airflow, TensorFlow, Spark, PyTorch, Computer Vision, XGBoost, BigQuery, Scikit-learn, SQL, MLflow, Tableau",1,904,1434,194,557,8,90,16.3,Delhi
+CAND_0080,0,fresher,Tier-2,8.91,3,"LLMs, Scikit-learn, XGBoost",0,101,477,32,283,0,15,50.9,Delhi
+CAND_0081,0,junior,Tier-3,6.14,7,"Python, BigQuery, Snowflake, MLflow, Power BI, NLP, PyTorch",1,11,19,5,660,9,15,58.6,Chennai
+CAND_0082,2,junior,Tier-2,6.66,7,"Hadoop, Tableau, RAG, Vector Databases, NumPy, TensorFlow, Python",0,7,54,5,92,0,30,15.7,Chennai
+CAND_0083,0,junior,IIT,6.18,6,"Airflow, Snowflake, Hadoop, Spark, Statistics, RAG",1,351,850,93,754,9,0,22.9,Remote
+CAND_0084,0,fresher,NIT,8.31,2,"Power BI, PyTorch",2,4,16,5,301,9,0,15.6,Ahmedabad
+CAND_0085,0,junior,BITS,8.98,5,"Computer Vision, Statistics, Hadoop, TensorFlow, Spark",3,2,95,5,713,9,60,49.8,Remote
+CAND_0086,3,mid,BITS,6.3,9,"Pandas, dbt, TensorFlow, RAG, PyTorch, Computer Vision, NumPy, R, Airflow",1,153,334,10,251,3,90,36.6,Delhi
+CAND_0087,0,fresher,IIT,8.99,5,"Computer Vision, Snowflake, ML, NLP, R",3,891,1337,127,459,7,60,47.3,Hyderabad
+CAND_0088,2,mid,Tier-3,6.8,10,"R, BigQuery, TensorFlow, SQL, Tableau, Vector Databases, Hadoop, NumPy, NLP, Python",0,16,60,10,1814,10,15,57.8,Ahmedabad
+CAND_0089,4,mid,BITS,8.85,7,"R, TensorFlow, ML, PyTorch, Scikit-learn, Computer Vision, LLMs",0,184,240,37,279,3,30,41.9,Pune
+CAND_0090,0,junior,Tier-2,8.13,3,"SQL, Power BI, XGBoost",2,26,435,41,125,2,90,43.7,Kolkata
+CAND_0091,2,junior,NIT,8.61,5,"TensorFlow, LLMs, Statistics, Tableau, Pandas",1,13,52,5,433,7,90,36.5,Ahmedabad
+CAND_0092,2,junior,IIT,9.3,5,"R, NumPy, PyTorch, Power BI, Airflow",1,1758,1292,93,197,1,60,39.5,Mumbai
+CAND_0093,5,mid,IIT,8.03,5,"Python, LLMs, Computer Vision, Vector Databases, Scikit-learn",2,901,1423,175,483,6,15,15.8,Bangalore
+CAND_0094,7,senior,IIT,7.43,12,"NLP, R, LLMs, Pandas, Computer Vision, Python, Vector Databases, RAG, Airflow, dbt, PyTorch, ML",2,8,76,3,483,9,15,42.5,Bangalore
+CAND_0095,2,mid,IIT,9.45,6,"Vector Databases, MLflow, Pandas, XGBoost, Computer Vision, Scikit-learn",1,22,170,20,3492,21,0,24.9,Pune
+CAND_0096,5,mid,Tier-3,7.03,10,"Computer Vision, TensorFlow, Pandas, NumPy, R, Vector Databases, RAG, Airflow, Snowflake, dbt",1,23,460,43,246,1,90,9.3,Remote
+CAND_0097,1,junior,Tier-2,6.56,4,"Snowflake, TensorFlow, SQL, MLflow",0,166,329,15,269,3,0,9.7,Mumbai
+CAND_0098,2,mid,BITS,9.38,10,"Spark, R, Scikit-learn, dbt, Power BI, Statistics, Snowflake, MLflow, LLMs, Pandas",2,1677,919,77,430,6,15,44.1,Kolkata
+CAND_0099,11,senior,IIT,8.93,15,"Snowflake, Python, BigQuery, R, Statistics, Airflow, ML, MLflow, RAG, TensorFlow, Spark, Tableau, SQL, dbt, Hadoop",1,100,464,45,623,6,15,59.0,Pune
+CAND_0100,2,junior,IIT,8.89,7,"LLMs, Vector Databases, Statistics, Tableau, Airflow, Python, BigQuery",2,266,867,165,1639,29,90,47.9,Remote
+CAND_0101,1,junior,Tier-2,7.58,3,"Vector Databases, XGBoost, PyTorch",2,5,32,8,80,3,15,13.0,Pune
+CAND_0102,1,junior,IIT,6.15,3,"Snowflake, ML, Statistics",1,6,94,5,469,8,90,50.1,Remote
+CAND_0103,0,fresher,Tier-2,7.69,5,"Pandas, Hadoop, XGBoost, Statistics, Vector Databases",2,44,185,44,186,0,15,52.4,Hyderabad
+CAND_0104,3,mid,Tier-3,8.46,10,"dbt, RAG, Power BI, R, SQL, Computer Vision, LLMs, TensorFlow, XGBoost, NLP",3,31,458,14,483,4,60,25.4,Mumbai
+CAND_0105,0,junior,NIT,6.52,5,"Tableau, LLMs, Vector Databases, Computer Vision, Spark",1,6,62,10,4998,14,30,14.9,Hyderabad
+CAND_0106,5,mid,IIT,7.1,7,"Vector Databases, ML, Snowflake, Power BI, Spark, NumPy, Scikit-learn",2,131,241,33,368,8,30,31.3,Ahmedabad
+CAND_0107,6,senior,NIT,7.0,9,"BigQuery, Computer Vision, Python, ML, LLMs, Hadoop, Vector Databases, PyTorch, R",3,14,30,2,1997,25,15,7.5,Hyderabad
+CAND_0108,3,mid,Tier-2,7.47,5,"Pandas, RAG, BigQuery, Computer Vision, XGBoost",3,143,409,10,556,5,30,15.8,Hyderabad
+CAND_0109,2,mid,NIT,7.58,10,"LLMs, Snowflake, Vector Databases, PyTorch, ML, TensorFlow, Airflow, Python, Scikit-learn, R",1,1165,1388,173,387,6,90,18.8,Delhi
+CAND_0110,2,junior,IIT,6.87,3,"PyTorch, BigQuery, LLMs",0,20,496,37,4246,21,60,48.2,Remote
+CAND_0111,5,mid,BITS,7.81,5,"XGBoost, PyTorch, Python, RAG, Vector Databases",3,143,191,33,4762,18,60,45.2,Chennai
+CAND_0112,0,fresher,NIT,6.38,2,"TensorFlow, Hadoop",0,11,20,9,1109,22,90,7.2,Remote
+CAND_0113,1,junior,IIT,6.77,3,"NLP, TensorFlow, LLMs",1,23,477,14,1538,27,30,23.5,Remote
+CAND_0114,1,junior,Tier-2,8.18,6,"Statistics, SQL, BigQuery, Tableau, Power BI, Pandas",2,0,71,1,116,0,15,48.8,Hyderabad
+CAND_0115,2,mid,BITS,6.94,8,"Statistics, TensorFlow, Snowflake, Power BI, Spark, PyTorch, ML, XGBoost",1,40,446,41,854,27,60,54.3,Chennai
+CAND_0116,0,fresher,BITS,7.51,5,"Snowflake, Statistics, R, BigQuery, Spark",1,168,151,30,485,7,60,57.7,Pune
+CAND_0117,5,mid,NIT,7.59,7,"dbt, TensorFlow, ML, NumPy, RAG, Scikit-learn, Pandas",1,8,81,9,1190,22,30,30.7,Delhi
+CAND_0118,1,junior,Tier-2,7.37,3,"Pandas, Spark, LLMs",1,138,423,19,744,5,90,26.7,Kolkata
+CAND_0119,0,fresher,NIT,7.19,5,"XGBoost, dbt, MLflow, Spark, Vector Databases",3,46,148,14,289,3,90,46.8,Bangalore
+CAND_0120,9,senior,Tier-2,7.18,11,"Computer Vision, NumPy, Vector Databases, BigQuery, TensorFlow, Python, R, Spark, Power BI, Snowflake, Scikit-learn",3,22,100,43,717,5,60,57.0,Ahmedabad
+CAND_0121,5,mid,NIT,9.03,6,"Hadoop, Scikit-learn, TensorFlow, Computer Vision, MLflow, LLMs",2,89,458,49,551,6,90,5.2,Delhi
+CAND_0122,0,fresher,Tier-3,8.76,2,"Snowflake, PyTorch",3,38,378,40,392,6,15,25.5,Bangalore
+CAND_0123,0,fresher,Tier-3,8.79,5,"Hadoop, LLMs, Tableau, Power BI, TensorFlow",0,190,211,17,2733,30,30,36.7,Bangalore
+CAND_0124,2,mid,Tier-3,8.62,7,"TensorFlow, Snowflake, SQL, LLMs, NLP, Power BI, R",0,111,470,18,428,3,60,14.6,Remote
+CAND_0125,4,mid,Tier-3,7.05,5,"dbt, Tableau, XGBoost, Statistics, Spark",2,17,29,9,122,2,90,40.9,Chennai
+CAND_0126,7,senior,NIT,6.41,11,"LLMs, Snowflake, BigQuery, NLP, ML, XGBoost, R, Spark, Scikit-learn, SQL, Python",3,6,77,10,2837,28,0,46.9,Remote
+CAND_0127,0,junior,NIT,9.01,5,"Statistics, NLP, dbt, Spark, Power BI",2,85,284,38,164,3,90,4.9,Bangalore
+CAND_0128,9,senior,NIT,6.82,13,"Pandas, R, dbt, Spark, NumPy, Computer Vision, XGBoost, LLMs, Scikit-learn, BigQuery, NLP, Hadoop, RAG",0,13,25,3,893,30,30,34.2,Pune
+CAND_0129,8,senior,Tier-2,9.69,9,"Hadoop, NumPy, Vector Databases, Power BI, SQL, Snowflake, ML, R, MLflow",3,109,197,30,3622,29,30,38.5,Pune
+CAND_0130,0,fresher,IIT,9.51,3,"MLflow, Vector Databases, SQL",1,246,839,103,2535,16,90,44.9,Pune
+CAND_0131,5,senior,IIT,6.97,8,"R, dbt, Computer Vision, Python, SQL, Hadoop, XGBoost, Spark",0,30,226,43,456,8,30,23.9,Delhi
+CAND_0132,2,mid,BITS,9.34,9,"NumPy, Power BI, Hadoop, LLMs, MLflow, SQL, RAG, BigQuery, Scikit-learn",2,196,461,43,765,5,90,33.8,Delhi
+CAND_0133,0,junior,IIT,8.91,5,"Vector Databases, Computer Vision, XGBoost, NumPy, MLflow",0,935,581,172,1898,26,60,31.5,Chennai
+CAND_0134,8,senior,Tier-3,8.91,8,"Vector Databases, LLMs, PyTorch, RAG, SQL, TensorFlow, dbt, Snowflake",3,6,47,7,503,7,90,55.5,Delhi
+CAND_0135,2,junior,Tier-3,6.34,7,"Hadoop, Airflow, Power BI, dbt, Python, TensorFlow, LLMs",2,19,30,6,3917,11,15,14.0,Delhi
+CAND_0136,1,junior,Tier-3,7.1,4,"Python, NLP, MLflow, XGBoost",0,124,326,15,607,3,90,49.9,Pune
+CAND_0137,3,mid,Tier-2,6.14,10,"Power BI, SQL, R, Pandas, Airflow, TensorFlow, NLP, Tableau, ML, dbt",2,8,52,8,4189,26,0,36.0,Hyderabad
+CAND_0138,0,fresher,BITS,7.62,4,"NumPy, NLP, ML, Snowflake",3,73,415,36,511,3,15,4.6,Remote
+CAND_0139,4,mid,BITS,7.14,5,"Power BI, Hadoop, Vector Databases, ML, NLP",3,1,76,4,194,2,30,48.8,Bangalore
+CAND_0140,0,fresher,BITS,9.19,3,"ML, NLP, Hadoop",2,642,1037,127,2233,13,60,32.3,Hyderabad
+CAND_0141,1,junior,Tier-3,8.78,4,"BigQuery, LLMs, NumPy, PyTorch",0,139,123,16,566,7,15,20.0,Hyderabad
+CAND_0142,1,junior,IIT,6.6,7,"PyTorch, Statistics, Spark, Vector Databases, Power BI, XGBoost, NumPy",2,47,296,13,1505,23,30,22.6,Ahmedabad
+CAND_0143,5,mid,IIT,6.35,5,"LLMs, Computer Vision, RAG, MLflow, dbt",2,9,54,9,594,5,0,22.2,Kolkata
+CAND_0144,1,junior,Tier-3,6.91,4,"Hadoop, SQL, Power BI, PyTorch",2,10,81,1,720,10,0,42.4,Kolkata
+CAND_0145,1,junior,IIT,6.34,3,"LLMs, NumPy, dbt",1,42,398,10,613,9,90,58.2,Bangalore
+CAND_0146,10,senior,IIT,6.89,14,"Hadoop, MLflow, Airflow, Statistics, PyTorch, TensorFlow, Snowflake, NumPy, Computer Vision, Vector Databases, RAG, NLP, BigQuery, SQL",1,13,87,0,4880,17,90,24.6,Kolkata
+CAND_0147,0,fresher,Tier-3,9.65,4,"dbt, BigQuery, SQL, NLP",0,1794,511,170,532,10,30,20.2,Kolkata
+CAND_0148,9,senior,Tier-3,8.2,8,"Tableau, Snowflake, SQL, NumPy, BigQuery, RAG, XGBoost, ML",3,12,40,10,525,5,0,6.9,Bangalore
+CAND_0149,4,mid,NIT,7.44,8,"BigQuery, Airflow, Python, Tableau, dbt, Hadoop, Power BI, MLflow",2,18,34,8,472,5,0,4.7,Bangalore
+CAND_0150,6,senior,NIT,8.76,12,"NLP, SQL, R, MLflow, PyTorch, LLMs, Pandas, ML, Vector Databases, NumPy, Computer Vision, Power BI",3,65,325,14,175,1,0,12.1,Delhi
+CAND_0151,1,junior,BITS,6.39,7,"MLflow, dbt, Python, Snowflake, NumPy, RAG, R",3,196,499,40,362,8,0,24.5,Kolkata
+CAND_0152,0,fresher,BITS,8.46,5,"LLMs, PyTorch, Tableau, RAG, Hadoop",2,0,85,3,550,9,60,58.1,Pune
+CAND_0153,10,senior,IIT,7.54,11,"LLMs, Statistics, NumPy, ML, Scikit-learn, SQL, R, RAG, Snowflake, Python, Computer Vision",3,10,37,0,2220,20,60,13.4,Pune
+CAND_0154,5,mid,IIT,6.51,6,"SQL, Python, Vector Databases, TensorFlow, MLflow, ML",2,20,48,5,4230,10,90,58.7,Hyderabad
+CAND_0155,2,junior,NIT,7.05,4,"Snowflake, TensorFlow, LLMs, R",2,151,159,14,758,6,30,16.9,Kolkata
+CAND_0156,8,senior,Tier-3,9.31,14,"ML, Snowflake, R, Airflow, NumPy, PyTorch, dbt, TensorFlow, Hadoop, Spark, SQL, Scikit-learn, Vector Databases, Pandas",3,75,402,40,4590,18,15,17.9,Kolkata
+CAND_0157,3,mid,IIT,7.59,5,"Airflow, BigQuery, Hadoop, Snowflake, RAG",0,61,460,39,999,24,60,14.4,Delhi
+CAND_0158,0,fresher,IIT,7.46,4,"Airflow, MLflow, XGBoost, RAG",1,1,24,6,487,10,90,43.5,Chennai
+CAND_0159,1,junior,NIT,8.05,7,"MLflow, Vector Databases, Scikit-learn, Power BI, Spark, XGBoost, BigQuery",2,178,288,14,2342,24,30,57.7,Kolkata
+CAND_0160,7,senior,IIT,7.89,11,"Airflow, LLMs, Statistics, NumPy, Snowflake, Spark, MLflow, dbt, Python, Tableau, Pandas",3,4,55,4,166,1,15,51.0,Remote
+CAND_0161,0,junior,IIT,6.16,4,"XGBoost, Spark, TensorFlow, PyTorch",2,147,493,19,4552,20,30,40.2,Remote
+CAND_0162,3,mid,Tier-3,7.29,10,"NumPy, LLMs, Statistics, Pandas, Tableau, Python, Hadoop, Scikit-learn, dbt, Spark",1,598,1002,131,608,3,60,24.7,Delhi
+CAND_0163,4,mid,BITS,9.71,6,"dbt, Tableau, TensorFlow, Airflow, LLMs, NumPy",2,18,27,3,395,9,30,50.7,Ahmedabad
+CAND_0164,3,mid,IIT,6.59,10,"Computer Vision, LLMs, Tableau, Airflow, TensorFlow, Snowflake, Scikit-learn, Python, Pandas, XGBoost",2,197,169,32,383,3,30,6.7,Kolkata
+CAND_0165,3,mid,NIT,8.91,9,"LLMs, Tableau, XGBoost, MLflow, Spark, Pandas, Statistics, Computer Vision, NumPy",2,49,167,11,545,8,90,33.3,Delhi
+CAND_0166,0,fresher,IIT,6.84,4,"NumPy, PyTorch, SQL, Airflow",0,16,85,0,170,0,0,46.3,Mumbai
+CAND_0167,0,junior,Tier-2,6.11,5,"Spark, TensorFlow, BigQuery, MLflow, Vector Databases",0,21,471,16,773,6,15,28.6,Chennai
+CAND_0168,0,fresher,Tier-3,6.81,4,"Pandas, dbt, BigQuery, NumPy",2,173,476,29,651,10,60,14.6,Kolkata
+CAND_0169,12,senior,IIT,9.8,15,"dbt, BigQuery, LLMs, RAG, SQL, Pandas, NumPy, Hadoop, Statistics, NLP, Spark, Computer Vision, R, TensorFlow, Snowflake",2,180,168,11,350,3,60,37.9,Bangalore
+CAND_0170,2,mid,Tier-3,9.01,7,"BigQuery, XGBoost, Statistics, Power BI, RAG, Computer Vision, Python",3,119,349,17,591,10,15,32.4,Ahmedabad
+CAND_0171,5,mid,Tier-2,8.91,7,"ML, R, NumPy, Spark, LLMs, MLflow, Python",0,10,31,0,575,8,60,18.9,Kolkata
+CAND_0172,1,junior,Tier-2,7.23,3,"Power BI, Snowflake, BigQuery",3,1847,731,73,667,4,90,30.6,Pune
+CAND_0173,4,mid,BITS,7.65,6,"XGBoost, NLP, BigQuery, dbt, Statistics, TensorFlow",3,195,491,29,266,3,60,18.9,Mumbai
+CAND_0174,4,mid,NIT,7.54,6,"Scikit-learn, Tableau, dbt, Snowflake, Statistics, Airflow",2,842,1116,126,271,0,15,17.2,Mumbai
+CAND_0175,1,junior,IIT,6.9,5,"Vector Databases, Scikit-learn, Airflow, PyTorch, NumPy",3,91,174,33,543,8,0,42.7,Bangalore
+CAND_0176,2,junior,Tier-2,7.18,3,"dbt, Hadoop, Python",1,40,499,41,170,3,0,50.2,Kolkata
+CAND_0177,1,junior,Tier-2,7.72,4,"Computer Vision, NumPy, Python, Hadoop",1,86,188,47,3483,19,60,53.1,Kolkata
+CAND_0178,0,fresher,NIT,9.45,3,"R, Hadoop, NLP",0,131,495,39,723,10,30,20.1,Hyderabad
+CAND_0179,5,mid,NIT,9.78,10,"TensorFlow, Airflow, NumPy, Python, Tableau, XGBoost, Scikit-learn, dbt, ML, Spark",3,110,410,48,231,0,30,58.7,Remote
+CAND_0180,2,junior,NIT,6.99,6,"SQL, Power BI, RAG, BigQuery, Airflow, NumPy",2,15,29,8,736,10,15,6.0,Delhi
+CAND_0181,5,mid,Tier-3,6.16,10,"dbt, Snowflake, Pandas, NumPy, RAG, Spark, SQL, PyTorch, Tableau, TensorFlow",1,120,291,47,287,0,60,29.4,Bangalore
+CAND_0182,0,fresher,Tier-3,7.23,4,"Power BI, R, Vector Databases, SQL",0,42,110,23,383,9,60,48.9,Delhi
+CAND_0183,1,junior,IIT,9.16,6,"Snowflake, XGBoost, ML, NLP, Airflow, SQL",3,20,92,8,342,7,60,20.8,Mumbai
+CAND_0184,0,fresher,Tier-3,7.12,2,"BigQuery, Pandas",3,65,193,35,323,4,60,46.4,Chennai
+CAND_0185,4,mid,NIT,6.7,10,"Statistics, Python, Vector Databases, Hadoop, Pandas, RAG, TensorFlow, Snowflake, dbt, LLMs",2,26,207,40,216,1,90,14.7,Kolkata
+CAND_0186,3,mid,Tier-3,6.08,6,"Snowflake, Python, dbt, ML, Scikit-learn, PyTorch",3,1380,823,191,1320,18,30,29.1,Mumbai
+CAND_0187,4,mid,NIT,7.78,6,"ML, LLMs, Power BI, NLP, dbt, NumPy",2,19,72,1,253,3,0,60.0,Hyderabad
+CAND_0188,4,mid,NIT,6.66,5,"Pandas, NLP, Scikit-learn, Statistics, Snowflake",1,3,88,9,700,4,0,52.8,Remote
+CAND_0189,0,fresher,Tier-3,8.9,3,"Computer Vision, Spark, Power BI",1,2,44,5,4199,21,15,11.7,Remote
+CAND_0190,5,mid,Tier-2,9.59,6,"SQL, Power BI, Vector Databases, Hadoop, TensorFlow, Airflow",0,16,88,2,658,9,90,40.5,Remote
+CAND_0191,1,junior,IIT,6.14,4,"PyTorch, SQL, BigQuery, Statistics",0,1,57,4,4957,21,90,45.3,Mumbai
+CAND_0192,3,mid,BITS,7.08,10,"Pandas, Power BI, BigQuery, ML, PyTorch, Spark, dbt, MLflow, NumPy, Airflow",2,61,173,42,365,10,0,42.9,Remote
+CAND_0193,3,mid,Tier-2,9.5,9,"Pandas, Spark, ML, Tableau, R, BigQuery, NumPy, MLflow, Vector Databases",1,160,278,14,745,3,30,47.8,Pune
+CAND_0194,3,mid,Tier-3,8.89,6,"NLP, LLMs, MLflow, Airflow, Hadoop, Scikit-learn",3,163,143,22,294,0,90,54.2,Hyderabad
+CAND_0195,7,senior,NIT,6.93,15,"Hadoop, ML, R, Snowflake, Python, Power BI, Airflow, TensorFlow, Vector Databases, Computer Vision, BigQuery, XGBoost, Statistics, PyTorch, NumPy",3,8,58,1,1224,16,90,25.6,Hyderabad
+CAND_0196,5,senior,Tier-3,6.25,8,"XGBoost, Statistics, ML, LLMs, Pandas, Scikit-learn, Vector Databases, NumPy",1,0,17,7,439,7,90,19.8,Hyderabad
+CAND_0197,4,mid,Tier-2,8.65,10,"Airflow, PyTorch, NLP, BigQuery, Power BI, Computer Vision, XGBoost, dbt, ML, Scikit-learn",0,125,384,41,690,9,60,41.6,Mumbai
+CAND_0198,4,mid,NIT,9.19,5,"PyTorch, dbt, Python, Scikit-learn, Vector Databases",2,1011,613,121,195,3,90,41.6,Hyderabad
+CAND_0199,2,junior,IIT,8.83,7,"BigQuery, Vector Databases, XGBoost, PyTorch, Python, Statistics, RAG",0,1259,1277,61,752,6,30,4.3,Kolkata
+CAND_0200,2,mid,NIT,9.72,5,"TensorFlow, Power BI, Tableau, SQL, Computer Vision",2,180,328,47,1822,12,0,47.8,Kolkata
+CAND_0201,12,senior,Tier-3,6.25,8,"Hadoop, MLflow, Pandas, NLP, Airflow, Scikit-learn, Python, dbt",1,323,630,129,599,9,90,47.4,Pune
+CAND_0202,9,senior,Tier-2,9.69,10,"Airflow, Spark, PyTorch, RAG, Computer Vision, LLMs, SQL, Power BI, NLP, Snowflake",1,116,205,35,394,3,90,10.5,Mumbai
+CAND_0203,4,mid,IIT,6.76,6,"Vector Databases, TensorFlow, Power BI, Statistics, Scikit-learn, MLflow",1,5,77,9,4353,12,15,33.8,Delhi
+CAND_0204,2,junior,NIT,9.5,5,"Power BI, Scikit-learn, R, Computer Vision, XGBoost",3,154,455,40,4853,25,90,40.4,Kolkata
+CAND_0205,5,mid,Tier-2,6.83,8,"Spark, XGBoost, Statistics, SQL, NumPy, LLMs, Tableau, dbt",3,95,356,42,579,4,30,6.1,Mumbai
+CAND_0206,4,mid,BITS,8.83,6,"MLflow, RAG, Statistics, XGBoost, Python, Tableau",0,17,69,7,137,0,60,15.7,Kolkata
+CAND_0207,4,mid,IIT,7.16,8,"Scikit-learn, Airflow, Vector Databases, LLMs, Hadoop, Statistics, Tableau, Power BI",3,17,32,0,261,3,60,19.9,Hyderabad
+CAND_0208,5,mid,Tier-2,7.97,7,"TensorFlow, Pandas, NumPy, Statistics, Airflow, Snowflake, SQL",1,14,18,6,609,6,90,6.2,Ahmedabad
+CAND_0209,12,senior,BITS,7.49,10,"NLP, Vector Databases, Airflow, dbt, Hadoop, TensorFlow, ML, Pandas, Computer Vision, R",2,12,53,6,738,6,15,22.3,Bangalore
+CAND_0210,0,junior,IIT,8.08,6,"Snowflake, XGBoost, TensorFlow, RAG, Python, NLP",3,270,1414,186,410,10,30,28.9,Mumbai
+CAND_0211,0,junior,NIT,7.42,3,"Airflow, Python, Power BI",0,10,81,10,397,6,15,9.9,Kolkata
+CAND_0212,5,mid,Tier-2,6.05,8,"LLMs, XGBoost, Computer Vision, NLP, Spark, R, SQL, PyTorch",1,15,18,5,944,29,15,32.2,Kolkata
+CAND_0213,0,junior,IIT,7.17,7,"R, NumPy, Spark, Snowflake, Tableau, PyTorch, Vector Databases",1,153,312,28,684,3,90,7.0,Chennai
+CAND_0214,0,fresher,Tier-2,7.98,2,"Snowflake, SQL",1,13,69,4,2144,16,30,20.0,Delhi
+CAND_0215,4,mid,IIT,9.61,8,"Snowflake, dbt, Airflow, BigQuery, NLP, RAG, NumPy, MLflow",2,175,346,14,3529,14,0,4.7,Delhi
+CAND_0216,1,junior,Tier-3,9.57,6,"Computer Vision, ML, SQL, Airflow, R, Pandas",2,705,748,172,317,8,60,56.9,Delhi
+CAND_0217,8,senior,IIT,8.93,14,"BigQuery, PyTorch, Airflow, TensorFlow, RAG, XGBoost, Tableau, MLflow, Hadoop, ML, Spark, Vector Databases, Statistics, dbt",2,5,100,2,401,10,15,14.4,Mumbai
+CAND_0218,7,senior,Tier-3,7.67,9,"Tableau, SQL, Hadoop, Pandas, XGBoost, Vector Databases, Power BI, Python, Scikit-learn",0,10,87,6,136,2,30,41.2,Chennai
+CAND_0219,4,mid,IIT,6.01,10,"NLP, Pandas, BigQuery, XGBoost, Scikit-learn, Spark, dbt, Snowflake, RAG, Airflow",0,913,938,171,637,4,90,53.1,Hyderabad
+CAND_0220,1,junior,IIT,7.15,6,"Snowflake, LLMs, Statistics, Scikit-learn, Vector Databases, PyTorch",0,452,1181,84,286,3,90,46.9,Chennai
+CAND_0221,2,junior,Tier-2,8.48,4,"Pandas, Tableau, SQL, Power BI",2,13,50,5,1834,26,60,21.7,Kolkata
+CAND_0222,1,junior,Tier-3,6.56,3,"Tableau, BigQuery, RAG",3,7,99,0,772,5,15,59.5,Pune
+CAND_0223,2,junior,Tier-3,9.76,3,"Tableau, RAG, PyTorch",0,796,1418,87,407,6,90,9.7,Chennai
+CAND_0224,1,junior,NIT,9.52,6,"R, Pandas, BigQuery, Computer Vision, Power BI, ML",0,197,443,15,698,10,0,10.5,Ahmedabad
+CAND_0225,8,senior,Tier-3,7.04,9,"Snowflake, Computer Vision, RAG, Airflow, Tableau, ML, NumPy, Pandas, Power BI",0,20,30,1,2903,11,90,13.6,Remote
+CAND_0226,0,fresher,IIT,9.6,5,"NumPy, ML, Snowflake, RAG, Power BI",2,80,118,22,86,2,30,19.5,Remote
+CAND_0227,2,junior,BITS,6.99,6,"XGBoost, LLMs, Airflow, NumPy, Statistics, PyTorch",1,7,19,4,363,4,0,24.3,Mumbai
+CAND_0228,3,mid,BITS,6.04,6,"Pandas, TensorFlow, BigQuery, Tableau, ML, Snowflake",2,8,11,10,181,1,30,7.0,Delhi
+CAND_0229,2,junior,Tier-3,8.69,5,"BigQuery, Tableau, XGBoost, Airflow, RAG",2,167,129,15,3141,27,15,30.9,Kolkata
+CAND_0230,0,junior,NIT,9.46,6,"Scikit-learn, Vector Databases, LLMs, BigQuery, NLP, R",1,146,294,20,145,0,0,20.2,Hyderabad
+CAND_0231,3,mid,Tier-2,6.83,10,"dbt, NLP, Snowflake, R, Spark, Python, MLflow, Power BI, Tableau, Computer Vision",3,77,340,35,3866,19,30,10.1,Delhi
+CAND_0232,3,mid,Tier-2,8.84,7,"PyTorch, Tableau, R, NumPy, Hadoop, Airflow, Power BI",2,4,24,1,252,0,15,6.9,Chennai
+CAND_0233,1,junior,Tier-3,7.1,6,"NLP, NumPy, BigQuery, TensorFlow, Scikit-learn, XGBoost",1,20,91,2,108,0,15,56.0,Bangalore
+CAND_0234,2,mid,Tier-2,7.55,10,"Power BI, Airflow, Snowflake, R, BigQuery, Vector Databases, LLMs, Tableau, Pandas, XGBoost",1,19,22,6,394,7,0,41.5,Chennai
+CAND_0235,1,junior,Tier-2,8.82,5,"ML, Hadoop, SQL, Pandas, NumPy",1,1685,985,101,186,1,30,53.9,Hyderabad
+CAND_0236,1,junior,IIT,9.46,6,"TensorFlow, NLP, XGBoost, NumPy, Tableau, R",3,5,10,2,592,6,90,18.5,Remote
+CAND_0237,0,fresher,IIT,6.65,4,"R, Computer Vision, NumPy, XGBoost",0,11,51,1,784,7,0,39.1,Pune
+CAND_0238,10,senior,BITS,6.67,8,"Vector Databases, MLflow, RAG, Hadoop, Computer Vision, XGBoost, Statistics, PyTorch",2,185,244,11,458,5,0,27.9,Hyderabad
+CAND_0239,2,mid,IIT,8.76,9,"Hadoop, Python, Pandas, Vector Databases, Computer Vision, R, NumPy, Scikit-learn, SQL",0,5,49,5,545,5,90,10.9,Remote
+CAND_0240,0,junior,Tier-3,6.54,4,"Hadoop, NumPy, Spark, Computer Vision",3,50,284,15,279,0,30,37.6,Delhi
+CAND_0241,2,junior,BITS,7.32,6,"XGBoost, RAG, SQL, Python, NumPy, Computer Vision",3,118,280,30,553,9,15,25.5,Chennai
+CAND_0242,1,junior,IIT,8.21,7,"RAG, SQL, Scikit-learn, Spark, Python, PyTorch, Computer Vision",0,13,41,3,261,1,15,25.1,Delhi
+CAND_0243,11,senior,IIT,8.52,9,"Python, NumPy, Spark, Vector Databases, SQL, Scikit-learn, Computer Vision, MLflow, Airflow",0,17,43,9,556,7,0,33.2,Delhi
+CAND_0244,0,fresher,IIT,6.83,2,"RAG, dbt",3,174,498,31,314,6,15,37.4,Remote
+CAND_0245,2,junior,NIT,8.43,5,"ML, R, Snowflake, Power BI, SQL",2,0,85,6,544,3,0,53.6,Delhi
+CAND_0246,8,senior,IIT,8.92,10,"dbt, NumPy, Power BI, Tableau, Spark, NLP, Airflow, R, Hadoop, Scikit-learn",0,38,191,39,116,3,15,56.6,Ahmedabad
+CAND_0247,0,fresher,BITS,7.52,4,"Spark, SQL, LLMs, Airflow",0,22,179,16,448,9,60,41.5,Mumbai
+CAND_0248,5,mid,IIT,6.69,8,"Hadoop, Power BI, SQL, Vector Databases, LLMs, NLP, Snowflake, PyTorch",3,74,127,23,744,3,0,11.9,Pune
+CAND_0249,4,mid,Tier-3,9.31,10,"R, SQL, Airflow, Power BI, Tableau, TensorFlow, PyTorch, Spark, RAG, Snowflake",3,147,262,17,705,9,15,39.5,Bangalore
+CAND_0250,0,junior,NIT,7.6,6,"Spark, PyTorch, Vector Databases, LLMs, ML, Python",2,129,367,31,358,5,90,13.1,Chennai
+CAND_0251,5,mid,BITS,8.67,5,"Computer Vision, Python, NLP, Airflow, Pandas",2,125,430,35,51,2,30,21.2,Pune
+CAND_0252,0,fresher,Tier-3,6.12,4,"Power BI, TensorFlow, ML, Airflow",1,64,306,30,182,1,15,32.2,Mumbai
+CAND_0253,2,junior,NIT,9.61,3,"Airflow, Python, Computer Vision",0,1493,1296,141,395,6,15,44.7,Hyderabad
+CAND_0254,2,junior,IIT,7.04,3,"Pandas, dbt, NLP",0,125,137,41,1425,16,60,49.3,Chennai
+CAND_0255,3,mid,IIT,6.45,7,"TensorFlow, BigQuery, XGBoost, Pandas, PyTorch, NLP, Python",1,109,462,45,633,7,60,55.7,Kolkata
+CAND_0256,4,mid,IIT,8.22,6,"Airflow, dbt, MLflow, NLP, XGBoost, Power BI",2,155,280,35,315,4,30,17.7,Kolkata
+CAND_0257,4,mid,Tier-2,6.46,10,"PyTorch, dbt, ML, Power BI, Scikit-learn, Statistics, SQL, Hadoop, Tableau, MLflow",0,1,45,6,80,0,15,36.3,Chennai
+CAND_0258,5,mid,IIT,9.2,5,"Power BI, Computer Vision, Python, SQL, Snowflake",3,115,416,16,57,1,30,52.2,Delhi
+CAND_0259,0,junior,NIT,8.75,3,"XGBoost, R, Pandas",2,1965,651,199,754,9,15,36.4,Mumbai
+CAND_0260,2,junior,Tier-3,6.86,3,"Statistics, Scikit-learn, LLMs",3,18,77,8,3367,19,0,55.2,Delhi
+CAND_0261,5,mid,NIT,8.96,5,"TensorFlow, LLMs, Tableau, ML, Computer Vision",0,16,65,8,3533,11,60,45.0,Chennai
+CAND_0262,3,mid,NIT,8.26,9,"LLMs, R, Computer Vision, Scikit-learn, Pandas, MLflow, RAG, Vector Databases, Statistics",2,200,405,28,675,3,90,30.7,Remote
+CAND_0263,3,mid,IIT,6.63,8,"LLMs, Snowflake, Airflow, Power BI, Python, TensorFlow, XGBoost, SQL",3,4,22,1,455,8,30,41.2,Chennai
+CAND_0264,2,mid,BITS,8.7,5,"NumPy, Airflow, Scikit-learn, LLMs, Spark",1,64,235,32,754,8,0,36.5,Pune
+CAND_0265,1,junior,Tier-2,7.1,4,"LLMs, NumPy, BigQuery, Tableau",2,130,280,10,325,7,90,41.3,Pune
+CAND_0266,2,junior,BITS,6.54,7,"Tableau, Scikit-learn, R, Snowflake, Spark, Vector Databases, Hadoop",2,17,35,4,3298,12,60,47.8,Ahmedabad
+CAND_0267,2,junior,Tier-3,8.64,5,"dbt, Airflow, Python, Statistics, MLflow",1,33,486,35,364,9,0,8.7,Remote
+CAND_0268,4,mid,IIT,9.12,10,"Pandas, Vector Databases, ML, LLMs, BigQuery, R, PyTorch, Computer Vision, NumPy, Snowflake",0,72,153,40,312,10,60,59.0,Mumbai
+CAND_0269,2,junior,IIT,7.64,4,"TensorFlow, BigQuery, Vector Databases, RAG",0,138,313,37,375,3,0,36.5,Mumbai
+CAND_0270,12,senior,IIT,7.78,15,"Spark, BigQuery, Vector Databases, PyTorch, MLflow, RAG, Hadoop, NLP, SQL, TensorFlow, Power BI, Statistics, Snowflake, dbt, Tableau",1,147,447,40,465,6,60,46.3,Delhi
+CAND_0271,2,mid,BITS,6.44,8,"TensorFlow, Power BI, Pandas, dbt, Hadoop, NumPy, ML, Statistics",2,72,117,18,757,3,30,14.4,Remote
+CAND_0272,0,junior,Tier-3,7.9,7,"SQL, dbt, Airflow, Computer Vision, Hadoop, MLflow, ML",2,1882,1463,124,286,2,15,58.2,Chennai
+CAND_0273,8,senior,IIT,8.07,9,"Computer Vision, Python, R, Power BI, Airflow, XGBoost, PyTorch, LLMs, RAG",0,272,1008,179,107,2,15,5.2,Pune
+CAND_0274,8,senior,IIT,8.1,8,"Airflow, RAG, MLflow, Statistics, NumPy, Pandas, dbt, NLP",0,14,33,4,1158,20,15,37.9,Hyderabad
+CAND_0275,2,mid,BITS,9.57,8,"dbt, RAG, Tableau, Spark, Statistics, Vector Databases, Scikit-learn, BigQuery",0,7,49,8,407,4,60,40.4,Bangalore
+CAND_0276,2,mid,IIT,7.03,7,"XGBoost, NLP, Hadoop, Snowflake, Python, RAG, Vector Databases",0,75,487,11,474,9,30,52.1,Mumbai
+CAND_0277,0,fresher,BITS,6.62,3,"Python, XGBoost, LLMs",1,8,94,4,901,13,15,28.9,Chennai
+CAND_0278,5,senior,Tier-2,7.82,11,"XGBoost, NLP, Statistics, Power BI, SQL, dbt, TensorFlow, MLflow, RAG, BigQuery, Airflow",1,173,220,32,355,4,15,15.4,Mumbai
+CAND_0279,2,junior,Tier-3,9.33,5,"Power BI, Airflow, Computer Vision, Spark, Snowflake",0,1901,1096,58,218,1,15,35.7,Mumbai
+CAND_0280,0,fresher,IIT,8.31,3,"ML, Tableau, Scikit-learn",2,112,140,32,193,0,60,48.0,Ahmedabad
+CAND_0281,3,mid,IIT,8.3,7,"SQL, Airflow, Vector Databases, BigQuery, NumPy, ML, Snowflake",2,471,1027,185,3979,23,15,43.9,Kolkata
+CAND_0282,10,senior,IIT,6.28,13,"Vector Databases, Airflow, Tableau, Snowflake, NumPy, TensorFlow, ML, BigQuery, SQL, Computer Vision, dbt, Python, RAG",2,56,121,23,520,7,15,10.6,Mumbai
+CAND_0283,3,mid,BITS,9.57,9,"LLMs, XGBoost, NumPy, Pandas, PyTorch, Statistics, BigQuery, TensorFlow, Python",0,424,1233,80,163,3,30,45.0,Mumbai
+CAND_0284,10,senior,NIT,8.76,13,"XGBoost, dbt, Computer Vision, BigQuery, SQL, Power BI, R, Airflow, Pandas, NLP, LLMs, Statistics, MLflow",1,176,206,21,1117,23,15,39.7,Kolkata
+CAND_0285,4,mid,BITS,8.54,10,"Statistics, Snowflake, Tableau, Pandas, Scikit-learn, LLMs, RAG, Airflow, dbt, Power BI",2,1239,720,154,331,8,60,27.8,Kolkata
+CAND_0286,4,mid,NIT,7.29,7,"Scikit-learn, ML, TensorFlow, Statistics, PyTorch, Pandas, Power BI",0,17,60,3,124,1,15,56.6,Kolkata
+CAND_0287,5,senior,Tier-2,9.01,8,"Python, Scikit-learn, Computer Vision, Vector Databases, R, XGBoost, Pandas, Hadoop",3,9,45,7,2460,13,60,9.2,Ahmedabad
+CAND_0288,0,fresher,NIT,7.45,4,"MLflow, Statistics, RAG, Pandas",0,99,270,19,714,4,60,37.2,Hyderabad
+CAND_0289,11,senior,NIT,6.22,15,"Vector Databases, Power BI, NumPy, R, MLflow, ML, Airflow, Python, XGBoost, PyTorch, Hadoop, BigQuery, dbt, Scikit-learn, NLP",0,62,201,38,272,0,90,31.3,Ahmedabad
+CAND_0290,0,junior,BITS,6.45,5,"NLP, Spark, ML, Computer Vision, TensorFlow",1,1729,1237,84,384,10,60,7.8,Kolkata
+CAND_0291,0,fresher,IIT,8.04,5,"NLP, TensorFlow, SQL, Spark, Computer Vision",0,179,492,35,2886,27,15,9.8,Hyderabad
+CAND_0292,4,mid,IIT,6.48,7,"Vector Databases, NLP, LLMs, Snowflake, PyTorch, TensorFlow, Python",0,869,809,178,689,4,60,23.9,Kolkata
+CAND_0293,2,junior,NIT,9.63,4,"Statistics, dbt, Snowflake, RAG",2,12,57,2,887,16,90,21.4,Remote
+CAND_0294,10,senior,IIT,8.31,8,"Hadoop, R, RAG, XGBoost, LLMs, Vector Databases, ML, Python",0,34,327,50,231,0,15,40.7,Remote
+CAND_0295,2,junior,NIT,9.44,3,"Airflow, LLMs, R",2,9,45,8,479,4,60,8.9,Mumbai
+CAND_0296,0,fresher,Tier-2,8.25,3,"Computer Vision, Spark, dbt",1,787,682,121,371,8,15,13.9,Hyderabad
+CAND_0297,4,mid,Tier-3,7.35,7,"Computer Vision, LLMs, TensorFlow, R, ML, Hadoop, NumPy",2,152,437,50,97,3,60,40.9,Chennai
+CAND_0298,0,fresher,Tier-2,9.3,5,"Power BI, Computer Vision, Pandas, TensorFlow, Spark",1,84,470,33,607,8,15,46.7,Pune
+CAND_0299,0,fresher,BITS,9.63,3,"BigQuery, TensorFlow, Tableau",1,4,54,7,151,1,15,20.9,Delhi
+CAND_0300,8,senior,IIT,8.75,10,"Python, Snowflake, TensorFlow, Spark, Pandas, Vector Databases, Statistics, Hadoop, PyTorch, NLP",3,148,100,49,203,3,15,6.5,Hyderabad
+CAND_0301,4,mid,NIT,7.62,7,"R, XGBoost, Airflow, TensorFlow, LLMs, Hadoop, BigQuery",0,13,16,4,517,7,60,43.9,Ahmedabad
+CAND_0302,0,junior,Tier-3,8.02,3,"Python, Power BI, RAG",3,195,289,26,4287,20,15,20.4,Bangalore
+CAND_0303,4,mid,IIT,8.26,10,"Scikit-learn, TensorFlow, SQL, Statistics, Pandas, NumPy, NLP, Snowflake, Airflow, XGBoost",3,10,91,4,4261,22,0,50.9,Pune
+CAND_0304,3,mid,BITS,9.78,10,"ML, Snowflake, PyTorch, Airflow, XGBoost, TensorFlow, Computer Vision, BigQuery, R, Hadoop",0,103,213,14,613,7,30,34.3,Kolkata
+CAND_0305,4,mid,Tier-2,7.32,6,"PyTorch, Statistics, RAG, TensorFlow, Hadoop, XGBoost",1,179,280,46,520,9,15,25.0,Remote
+CAND_0306,0,junior,Tier-2,6.83,5,"TensorFlow, MLflow, Vector Databases, Hadoop, Statistics",3,146,487,39,123,3,90,50.5,Kolkata
+CAND_0307,1,junior,Tier-3,9.7,3,"NumPy, NLP, BigQuery",1,5,68,5,670,6,30,7.6,Hyderabad
+CAND_0308,12,senior,Tier-3,9.76,10,"NLP, Power BI, TensorFlow, Scikit-learn, dbt, SQL, Python, R, Airflow, Snowflake",0,3,31,5,511,8,0,22.5,Ahmedabad
+CAND_0309,0,junior,BITS,7.3,6,"ML, XGBoost, NLP, R, NumPy, Computer Vision",2,192,250,19,1853,14,0,51.7,Pune
+CAND_0310,1,junior,Tier-2,8.74,7,"Spark, Computer Vision, NumPy, ML, BigQuery, Power BI, Vector Databases",1,6,38,2,442,4,0,51.0,Ahmedabad
+CAND_0311,1,junior,IIT,7.51,7,"XGBoost, Statistics, Vector Databases, RAG, SQL, R, dbt",1,43,480,22,237,0,15,17.7,Pune
+CAND_0312,0,junior,IIT,7.21,6,"dbt, SQL, Snowflake, PyTorch, Pandas, Statistics",2,170,425,49,686,10,60,39.3,Kolkata
+CAND_0313,4,mid,BITS,7.0,7,"Computer Vision, dbt, Pandas, TensorFlow, Snowflake, Python, Power BI",3,155,341,16,3258,29,15,46.9,Delhi
+CAND_0314,1,junior,Tier-3,8.48,5,"XGBoost, Snowflake, Tableau, Spark, NumPy",2,20,27,7,246,2,30,20.5,Hyderabad
+CAND_0315,5,mid,Tier-2,8.12,6,"XGBoost, Pandas, SQL, Scikit-learn, TensorFlow, Power BI",3,3,70,2,275,0,15,37.0,Kolkata
+CAND_0316,0,junior,Tier-2,8.18,7,"RAG, Python, NumPy, SQL, Power BI, Spark, dbt",2,4,25,10,4165,23,0,55.1,Bangalore
+CAND_0317,0,junior,Tier-2,9.0,7,"Computer Vision, SQL, Vector Databases, ML, RAG, Statistics, Pandas",0,135,478,19,216,2,60,53.8,Chennai
+CAND_0318,2,mid,Tier-2,6.07,7,"XGBoost, Scikit-learn, ML, LLMs, Power BI, Statistics, dbt",2,4,79,5,788,4,15,21.0,Hyderabad
+CAND_0319,3,mid,Tier-2,6.1,5,"dbt, Vector Databases, PyTorch, Hadoop, R",3,101,312,22,2523,12,0,56.9,Ahmedabad
+CAND_0320,11,senior,IIT,7.35,12,"Scikit-learn, RAG, SQL, Computer Vision, LLMs, Hadoop, Snowflake, Python, XGBoost, Power BI, Statistics, Vector Databases",2,5,13,7,404,7,0,47.9,Pune
+CAND_0321,2,mid,IIT,9.47,9,"TensorFlow, Pandas, Python, Spark, Scikit-learn, SQL, Airflow, NLP, Vector Databases",3,15,83,3,82,1,0,45.6,Delhi
+CAND_0322,0,junior,NIT,6.95,6,"MLflow, NumPy, Power BI, Airflow, Spark, Vector Databases",0,80,182,35,132,0,15,39.2,Ahmedabad
+CAND_0323,0,junior,Tier-3,8.36,5,"Power BI, TensorFlow, XGBoost, Snowflake, MLflow",2,137,156,17,581,7,90,59.1,Pune
+CAND_0324,7,senior,NIT,6.54,11,"BigQuery, NLP, NumPy, ML, MLflow, Computer Vision, R, Statistics, Spark, Scikit-learn, Vector Databases",1,9,10,1,114,2,60,11.9,Mumbai
+CAND_0325,3,mid,NIT,8.46,9,"Spark, SQL, Scikit-learn, XGBoost, NumPy, Hadoop, Pandas, Computer Vision, PyTorch",0,17,88,7,2058,12,30,10.3,Bangalore
+CAND_0326,5,mid,NIT,7.99,10,"Scikit-learn, LLMs, Snowflake, Airflow, Vector Databases, R, Pandas, XGBoost, Statistics, BigQuery",0,17,87,9,3878,29,0,37.1,Kolkata
+CAND_0327,0,junior,NIT,7.37,3,"Computer Vision, dbt, ML",3,0,68,4,3737,21,0,22.2,Pune
+CAND_0328,0,junior,Tier-2,8.81,6,"Power BI, Spark, NLP, Statistics, Scikit-learn, MLflow",0,8,100,7,3672,20,30,4.9,Delhi
+CAND_0329,4,mid,NIT,7.51,6,"RAG, NLP, LLMs, Hadoop, XGBoost, NumPy",0,160,179,27,56,3,15,28.7,Hyderabad
+CAND_0330,1,junior,NIT,9.67,6,"Airflow, TensorFlow, BigQuery, ML, Hadoop, LLMs",2,10,99,3,253,1,90,21.6,Remote
+CAND_0331,2,junior,NIT,7.77,7,"Snowflake, ML, Airflow, SQL, TensorFlow, Python, Statistics",2,12,37,10,4503,19,90,48.7,Pune
+CAND_0332,2,junior,Tier-2,9.28,5,"MLflow, SQL, NLP, BigQuery, Airflow",1,12,62,6,4686,14,15,43.6,Mumbai
+CAND_0333,0,fresher,BITS,7.53,4,"dbt, MLflow, Pandas, BigQuery",0,23,102,30,148,2,15,14.6,Chennai
+CAND_0334,1,junior,IIT,9.31,5,"dbt, RAG, MLflow, TensorFlow, BigQuery",0,404,1009,99,2071,29,60,56.9,Remote
+CAND_0335,0,junior,Tier-2,6.54,6,"Spark, R, Snowflake, LLMs, ML, Pandas",2,9,90,6,4111,23,0,22.0,Ahmedabad
+CAND_0336,4,mid,BITS,8.93,9,"SQL, Tableau, ML, RAG, Statistics, TensorFlow, Power BI, R, Python",3,101,137,23,553,6,15,54.4,Bangalore
+CAND_0337,9,senior,Tier-2,9.74,14,"R, NumPy, Vector Databases, NLP, Scikit-learn, LLMs, XGBoost, Airflow, Tableau, PyTorch, dbt, Power BI, Spark, RAG",3,194,466,35,3133,27,0,26.1,Pune
+CAND_0338,0,fresher,Tier-3,6.76,2,"Pandas, Scikit-learn",0,492,952,60,639,6,15,23.1,Bangalore
+CAND_0339,0,fresher,NIT,9.43,3,"Tableau, BigQuery, SQL",2,160,262,13,357,4,15,44.5,Remote
+CAND_0340,3,mid,NIT,6.02,9,"MLflow, ML, Pandas, Scikit-learn, Computer Vision, R, Vector Databases, Statistics, SQL",2,15,29,7,574,8,15,57.9,Pune
+CAND_0341,3,mid,IIT,7.64,6,"Airflow, RAG, Statistics, Scikit-learn, Hadoop, NumPy",3,68,391,22,785,8,30,16.0,Kolkata
+CAND_0342,6,senior,Tier-3,6.19,11,"LLMs, Hadoop, BigQuery, Airflow, TensorFlow, dbt, Python, PyTorch, Vector Databases, Computer Vision, NumPy",1,29,446,16,251,0,0,22.6,Bangalore
+CAND_0343,10,senior,IIT,9.64,12,"ML, dbt, Snowflake, Power BI, TensorFlow, Tableau, NLP, Pandas, Computer Vision, NumPy, SQL, PyTorch",0,14,84,9,96,3,0,53.6,Chennai
+CAND_0344,7,senior,Tier-2,9.48,9,"Tableau, RAG, SQL, Spark, NLP, Snowflake, Python, Airflow, TensorFlow",0,28,166,49,52,0,60,25.8,Hyderabad
+CAND_0345,1,junior,Tier-2,9.05,5,"Spark, Vector Databases, XGBoost, Statistics, PyTorch",0,115,133,19,196,1,30,52.7,Bangalore
+CAND_0346,2,junior,Tier-2,8.99,3,"RAG, NumPy, PyTorch",3,15,87,2,4643,19,0,13.8,Delhi
+CAND_0347,3,mid,IIT,8.67,6,"MLflow, Scikit-learn, TensorFlow, Hadoop, Computer Vision, ML",3,35,132,41,476,3,60,4.7,Mumbai
+CAND_0348,2,junior,Tier-2,8.65,5,"dbt, Spark, Vector Databases, Snowflake, Tableau",1,103,306,39,272,3,60,27.5,Delhi
+CAND_0349,7,senior,IIT,7.52,8,"ML, TensorFlow, PyTorch, Pandas, Python, Hadoop, Snowflake, NumPy",2,1176,1122,124,86,1,0,57.6,Hyderabad
+CAND_0350,2,junior,Tier-3,8.32,5,"Vector Databases, Spark, RAG, NumPy, ML",2,102,500,50,2675,28,0,21.6,Ahmedabad
+CAND_0351,0,fresher,Tier-2,6.31,4,"SQL, dbt, Hadoop, MLflow",1,929,1344,173,193,1,90,53.5,Ahmedabad
+CAND_0352,2,mid,IIT,8.79,9,"Scikit-learn, Hadoop, Airflow, Python, Tableau, XGBoost, PyTorch, NumPy, Computer Vision",1,1646,1121,166,445,5,0,6.9,Chennai
+CAND_0353,4,mid,Tier-2,9.16,9,"Computer Vision, Power BI, Hadoop, TensorFlow, Vector Databases, NLP, R, Tableau, MLflow",1,107,484,14,176,3,60,42.9,Remote
+CAND_0354,1,junior,NIT,6.44,4,"Computer Vision, LLMs, Statistics, Python",1,146,112,36,1356,11,90,31.5,Bangalore
+CAND_0355,4,mid,NIT,7.51,9,"XGBoost, Statistics, Spark, BigQuery, Hadoop, TensorFlow, PyTorch, MLflow, Power BI",0,609,1277,195,676,7,15,35.7,Chennai
+CAND_0356,0,fresher,IIT,7.18,3,"Snowflake, Vector Databases, Hadoop",3,0,13,9,325,3,90,57.8,Pune
+CAND_0357,10,senior,NIT,9.69,13,"Computer Vision, Python, Tableau, R, Pandas, RAG, NumPy, XGBoost, dbt, PyTorch, LLMs, Power BI, Spark",1,13,32,0,595,3,15,48.9,Pune
+CAND_0358,9,senior,Tier-3,9.08,8,"Scikit-learn, RAG, R, Tableau, Spark, SQL, Computer Vision, dbt",2,105,283,39,530,5,15,37.5,Remote
+CAND_0359,0,junior,Tier-2,6.31,7,"BigQuery, Pandas, ML, Python, XGBoost, Statistics, TensorFlow",2,3,38,10,629,10,90,48.8,Bangalore
+CAND_0360,4,mid,Tier-2,7.15,9,"Python, MLflow, Vector Databases, Tableau, Pandas, PyTorch, TensorFlow, SQL, Statistics",2,20,88,9,321,10,30,43.2,Chennai
+CAND_0361,0,fresher,Tier-2,9.61,2,"Snowflake, MLflow",0,7,87,7,317,8,60,9.3,Ahmedabad
+CAND_0362,0,junior,NIT,7.76,3,"ML, Pandas, RAG",3,83,102,34,2246,22,90,51.4,Delhi
+CAND_0363,2,mid,NIT,6.53,8,"RAG, Airflow, Python, BigQuery, Spark, Statistics, Pandas, Vector Databases",0,42,392,21,640,6,60,7.7,Chennai
+CAND_0364,0,junior,IIT,6.88,4,"Python, Spark, R, BigQuery",2,6,94,7,4718,25,90,52.1,Delhi
+CAND_0365,7,senior,Tier-3,7.95,9,"Computer Vision, Airflow, MLflow, Spark, Scikit-learn, XGBoost, Vector Databases, R, ML",2,1218,1291,69,521,3,15,47.3,Remote
+CAND_0366,9,senior,Tier-3,8.47,13,"Tableau, Snowflake, BigQuery, Vector Databases, Hadoop, ML, Statistics, NumPy, LLMs, Power BI, R, Spark, Scikit-learn",1,191,437,22,246,1,90,22.0,Chennai
+CAND_0367,2,junior,BITS,8.43,5,"Computer Vision, Snowflake, Spark, Scikit-learn, Hadoop",2,2,34,4,775,10,60,15.2,Pune
+CAND_0368,11,senior,IIT,7.81,14,"TensorFlow, Pandas, Spark, R, LLMs, SQL, XGBoost, Vector Databases, ML, NumPy, Hadoop, Computer Vision, RAG, Power BI",2,72,377,49,942,15,0,9.4,Pune
+CAND_0369,1,junior,NIT,9.39,3,"Scikit-learn, LLMs, Tableau",0,72,444,41,4377,26,90,25.7,Bangalore
+CAND_0370,4,mid,IIT,8.28,6,"PyTorch, Power BI, Spark, Hadoop, XGBoost, Scikit-learn",0,112,295,11,551,9,30,16.8,Mumbai
+CAND_0371,5,mid,NIT,6.83,5,"R, MLflow, Scikit-learn, SQL, RAG",3,65,247,45,540,9,15,37.7,Bangalore
+CAND_0372,6,senior,IIT,8.96,13,"Statistics, TensorFlow, Scikit-learn, Python, Power BI, Vector Databases, XGBoost, BigQuery, LLMs, R, PyTorch, SQL, Airflow",2,54,100,28,535,10,90,30.1,Remote
+CAND_0373,1,junior,Tier-3,6.63,3,"SQL, NLP, Spark",3,57,330,47,704,5,15,54.6,Hyderabad
+CAND_0374,5,mid,Tier-3,7.41,8,"R, Scikit-learn, NumPy, Computer Vision, Pandas, Tableau, Spark, MLflow",3,1350,776,65,312,6,60,22.7,Chennai
+CAND_0375,1,junior,Tier-2,6.19,6,"MLflow, BigQuery, R, LLMs, Statistics, ML",3,7,15,0,3281,10,60,48.8,Kolkata
+CAND_0376,0,fresher,IIT,9.77,5,"SQL, Scikit-learn, dbt, TensorFlow, LLMs",3,153,449,27,2809,17,90,20.8,Ahmedabad
+CAND_0377,0,fresher,BITS,9.05,3,"Scikit-learn, dbt, NumPy",2,15,94,1,696,8,15,27.2,Kolkata
+CAND_0378,0,fresher,BITS,6.9,3,"Hadoop, Airflow, Scikit-learn",1,22,176,44,519,10,15,5.8,Bangalore
+CAND_0379,4,mid,IIT,6.15,7,"ML, SQL, R, NLP, Python, PyTorch, TensorFlow",0,396,1008,107,652,7,60,49.4,Chennai
+CAND_0380,4,mid,Tier-2,7.59,7,"Scikit-learn, dbt, NumPy, RAG, R, SQL, Computer Vision",2,269,872,90,4001,16,30,25.8,Bangalore
+CAND_0381,2,junior,Tier-2,7.71,6,"MLflow, ML, RAG, TensorFlow, Python, LLMs",2,278,1289,52,211,2,0,31.0,Chennai
+CAND_0382,0,junior,Tier-2,8.59,6,"Airflow, Vector Databases, R, dbt, ML, Statistics",3,166,218,30,263,1,0,49.7,Pune
+CAND_0383,1,junior,IIT,8.02,6,"Hadoop, Python, Airflow, R, SQL, XGBoost",2,1348,1243,134,95,1,15,57.0,Kolkata
+CAND_0384,7,senior,BITS,8.55,14,"Vector Databases, TensorFlow, Spark, Pandas, Tableau, Computer Vision, Statistics, ML, SQL, BigQuery, Snowflake, Airflow, R, Python",3,42,132,20,374,8,30,5.7,Remote
+CAND_0385,0,fresher,Tier-2,6.81,2,"Vector Databases, Scikit-learn",3,0,83,5,54,2,0,58.3,Kolkata
+CAND_0386,0,fresher,IIT,8.25,4,"Pandas, NLP, R, Computer Vision",3,59,243,31,735,9,30,45.4,Chennai
+CAND_0387,4,mid,NIT,8.7,9,"Spark, Pandas, Vector Databases, XGBoost, Power BI, Computer Vision, RAG, TensorFlow, PyTorch",0,13,21,10,470,7,90,4.2,Mumbai
+CAND_0388,0,fresher,Tier-2,8.06,3,"SQL, Power BI, TensorFlow",0,546,1255,180,111,3,90,48.5,Remote
+CAND_0389,2,junior,NIT,6.23,6,"BigQuery, Tableau, Spark, NumPy, Hadoop, ML",0,123,402,22,682,7,15,11.4,Mumbai
+CAND_0390,8,senior,IIT,8.6,10,"ML, Python, Computer Vision, PyTorch, Pandas, Vector Databases, Airflow, RAG, Power BI, LLMs",3,14,30,0,700,3,0,53.4,Pune
+CAND_0391,9,senior,IIT,7.8,9,"Tableau, Computer Vision, Scikit-learn, dbt, PyTorch, XGBoost, Snowflake, Hadoop, NLP",3,9,61,0,332,4,90,51.9,Pune
+CAND_0392,2,junior,IIT,6.57,7,"ML, Power BI, Python, Snowflake, PyTorch, TensorFlow, Pandas",2,6,41,5,323,8,60,16.7,Hyderabad
+CAND_0393,0,fresher,IIT,6.88,5,"Statistics, Vector Databases, SQL, Pandas, LLMs",1,18,62,1,443,10,90,10.7,Chennai
+CAND_0394,1,junior,BITS,8.06,4,"Power BI, Pandas, SQL, BigQuery",3,0,95,4,398,5,15,50.3,Bangalore
+CAND_0395,5,mid,Tier-3,6.86,5,"Spark, Computer Vision, MLflow, Tableau, LLMs",0,126,155,37,2678,15,90,57.2,Remote
+CAND_0396,0,fresher,NIT,9.62,5,"XGBoost, Power BI, NLP, PyTorch, Vector Databases",1,4,16,3,238,0,90,43.9,Kolkata
+CAND_0397,2,junior,NIT,9.04,7,"Scikit-learn, Statistics, Vector Databases, SQL, Power BI, BigQuery, RAG",1,152,175,49,526,4,30,29.8,Mumbai
+CAND_0398,0,junior,IIT,8.96,3,"Power BI, TensorFlow, MLflow",0,20,87,0,668,5,90,40.2,Kolkata
+CAND_0399,0,junior,IIT,8.28,6,"NumPy, TensorFlow, Tableau, BigQuery, NLP, R",3,108,425,31,345,8,60,35.5,Remote
+CAND_0400,4,mid,NIT,9.76,10,"Tableau, TensorFlow, ML, Hadoop, R, Statistics, Computer Vision, Snowflake, RAG, Airflow",0,84,370,17,277,0,15,34.7,Pune
+CAND_0401,3,mid,NIT,8.01,8,"NumPy, LLMs, SQL, MLflow, Hadoop, NLP, Tableau, TensorFlow",1,41,336,12,3996,19,30,46.4,Chennai
+CAND_0402,0,fresher,NIT,8.74,3,"Tableau, PyTorch, Vector Databases",3,1225,1031,95,3056,20,30,6.1,Bangalore
+CAND_0403,0,junior,NIT,9.48,4,"ML, Power BI, RAG, Pandas",1,159,124,48,2427,17,15,26.7,Hyderabad
+CAND_0404,2,mid,IIT,8.75,9,"MLflow, Power BI, Hadoop, Pandas, dbt, BigQuery, Airflow, Statistics, NLP",0,16,11,3,226,3,30,50.1,Ahmedabad
+CAND_0405,2,junior,NIT,7.49,3,"Tableau, NLP, SQL",1,598,674,90,782,6,60,19.4,Delhi
+CAND_0406,2,mid,IIT,8.64,6,"Vector Databases, R, Spark, Computer Vision, Python, Power BI",0,1,34,0,566,6,0,49.8,Kolkata
+CAND_0407,2,junior,Tier-3,6.28,4,"XGBoost, Power BI, Spark, R",3,21,370,38,2389,20,90,45.3,Ahmedabad
+CAND_0408,0,junior,NIT,8.45,3,"dbt, RAG, Python",2,123,487,48,4246,29,90,46.5,Pune
+CAND_0409,2,junior,BITS,6.55,6,"NumPy, Power BI, ML, Pandas, Tableau, Python",1,123,388,45,295,0,60,12.7,Bangalore
+CAND_0410,0,junior,Tier-3,6.66,7,"BigQuery, NLP, Scikit-learn, Power BI, Vector Databases, Spark, RAG",0,19,65,5,315,5,60,41.0,Remote
+CAND_0411,11,senior,Tier-3,8.4,11,"Airflow, Pandas, LLMs, RAG, NumPy, PyTorch, BigQuery, Power BI, Statistics, Vector Databases, Computer Vision",0,36,128,17,3971,26,90,22.8,Mumbai
+CAND_0412,0,fresher,Tier-2,8.01,2,"Vector Databases, Power BI",1,651,1152,121,438,3,60,13.1,Ahmedabad
+CAND_0413,2,junior,Tier-2,8.9,4,"Spark, Python, Statistics, SQL",3,6,35,7,109,0,15,15.3,Chennai
+CAND_0414,0,fresher,IIT,7.76,2,"NLP, TensorFlow",3,646,958,69,3230,19,15,52.4,Bangalore
+CAND_0415,5,mid,IIT,9.7,8,"R, Scikit-learn, dbt, PyTorch, XGBoost, Pandas, Hadoop, Snowflake",1,17,33,1,621,6,90,23.0,Kolkata
+CAND_0416,1,junior,NIT,9.32,7,"Statistics, LLMs, Power BI, Airflow, Python, RAG, Scikit-learn",3,0,56,0,3881,27,30,22.4,Delhi
+CAND_0417,4,mid,Tier-2,8.05,5,"ML, NumPy, Vector Databases, SQL, BigQuery",3,104,117,48,654,6,30,40.3,Pune
+CAND_0418,2,mid,IIT,7.08,10,"MLflow, R, RAG, Computer Vision, dbt, SQL, Spark, TensorFlow, Scikit-learn, Hadoop",1,158,176,49,594,9,15,21.9,Delhi
+CAND_0419,2,junior,Tier-2,8.59,4,"Spark, R, RAG, XGBoost",2,11,44,4,393,9,90,20.5,Hyderabad
+CAND_0420,1,junior,NIT,9.29,7,"Power BI, Hadoop, TensorFlow, XGBoost, SQL, MLflow, RAG",1,11,23,3,270,0,0,57.3,Kolkata
+CAND_0421,5,mid,Tier-2,6.06,8,"Scikit-learn, Python, PyTorch, Tableau, Computer Vision, NLP, Pandas, BigQuery",1,98,145,30,3205,24,15,44.8,Chennai
+CAND_0422,5,mid,IIT,6.9,8,"Python, NLP, XGBoost, NumPy, Computer Vision, Pandas, Tableau, SQL",0,151,369,45,738,8,90,49.3,Delhi
+CAND_0423,0,junior,Tier-2,9.28,7,"XGBoost, Tableau, TensorFlow, NumPy, Snowflake, Power BI, BigQuery",2,97,414,17,795,4,0,53.4,Bangalore
+CAND_0424,9,senior,NIT,8.23,11,"Computer Vision, Pandas, Power BI, RAG, SQL, PyTorch, Python, LLMs, Statistics, Snowflake, ML",3,200,185,33,447,6,15,43.6,Hyderabad
+CAND_0425,0,junior,IIT,6.48,3,"NLP, SQL, R",0,138,276,11,2152,25,15,48.1,Mumbai
+CAND_0426,0,fresher,BITS,8.84,5,"NumPy, Hadoop, ML, R, Power BI",3,1671,950,80,4640,15,15,55.8,Hyderabad
+CAND_0427,1,junior,NIT,6.66,6,"Pandas, Vector Databases, Airflow, Power BI, ML, SQL",1,88,313,17,550,10,30,17.8,Delhi
+CAND_0428,10,senior,Tier-3,8.32,9,"Python, TensorFlow, ML, Vector Databases, dbt, SQL, LLMs, R, Power BI",1,1,15,4,244,3,90,52.4,Ahmedabad
+CAND_0429,4,mid,Tier-2,6.7,5,"Python, XGBoost, Tableau, Scikit-learn, Hadoop",1,1401,1267,139,996,12,90,14.8,Ahmedabad
+CAND_0430,2,junior,Tier-3,9.77,7,"SQL, NLP, Pandas, NumPy, Hadoop, R, LLMs",3,465,1435,96,1142,13,90,46.6,Delhi
+CAND_0431,0,fresher,BITS,8.17,3,"Statistics, Python, LLMs",2,1817,1071,151,620,5,15,37.4,Chennai
+CAND_0432,3,mid,Tier-2,9.78,10,"Vector Databases, MLflow, Computer Vision, Python, PyTorch, ML, Spark, NumPy, Snowflake, LLMs",3,1794,659,56,372,10,15,30.8,Mumbai
+CAND_0433,0,junior,IIT,7.68,6,"Airflow, Scikit-learn, NumPy, RAG, Tableau, BigQuery",2,3,12,9,142,3,30,38.9,Ahmedabad
+CAND_0434,4,mid,Tier-3,9.21,7,"NumPy, XGBoost, dbt, Airflow, Python, Pandas, R",3,399,1331,143,164,0,0,58.6,Bangalore
+CAND_0435,0,junior,IIT,7.55,3,"RAG, Scikit-learn, Power BI",2,250,517,194,4364,15,60,27.9,Remote
+CAND_0436,5,mid,NIT,6.46,7,"NLP, Hadoop, TensorFlow, dbt, XGBoost, Airflow, Vector Databases",1,104,420,47,312,4,60,11.0,Ahmedabad
+CAND_0437,4,mid,NIT,8.07,10,"ML, Python, Power BI, Scikit-learn, SQL, RAG, TensorFlow, R, XGBoost, Statistics",3,4,37,7,446,3,15,46.7,Pune
+CAND_0438,4,mid,IIT,9.78,5,"TensorFlow, Airflow, LLMs, NumPy, Python",1,681,878,196,562,10,0,44.9,Mumbai
+CAND_0439,0,junior,Tier-2,9.4,4,"MLflow, Pandas, dbt, Spark",1,86,376,12,514,10,15,51.2,Mumbai
+CAND_0440,4,mid,Tier-2,6.35,6,"LLMs, ML, XGBoost, TensorFlow, NLP, Airflow",3,110,318,12,176,1,90,35.3,Pune
+CAND_0441,4,mid,Tier-3,8.21,6,"NLP, Airflow, RAG, Computer Vision, Tableau, MLflow",3,56,181,32,596,6,15,4.0,Pune
+CAND_0442,0,fresher,Tier-2,8.02,5,"NumPy, XGBoost, Hadoop, Snowflake, MLflow",0,74,157,47,758,6,0,17.0,Hyderabad
+CAND_0443,2,mid,NIT,9.73,7,"Hadoop, Power BI, RAG, Python, TensorFlow, Spark, XGBoost",0,122,132,40,686,10,90,34.1,Delhi
+CAND_0444,1,junior,Tier-3,9.17,5,"dbt, XGBoost, Airflow, BigQuery, Pandas",3,117,390,29,226,0,0,10.2,Pune
+CAND_0445,2,junior,Tier-3,9.78,6,"Spark, Pandas, SQL, Snowflake, RAG, Airflow",3,187,433,46,454,5,30,55.5,Pune
+CAND_0446,0,fresher,Tier-3,7.56,3,"Python, Tableau, Power BI",3,175,114,37,366,6,15,51.8,Kolkata
+CAND_0447,4,mid,BITS,6.21,10,"Scikit-learn, R, Python, LLMs, Airflow, TensorFlow, NLP, Pandas, ML, NumPy",3,43,290,42,258,2,0,4.3,Remote
+CAND_0448,0,fresher,Tier-2,7.83,3,"SQL, TensorFlow, ML",3,39,175,17,285,1,60,23.2,Remote
+CAND_0449,2,mid,Tier-2,9.7,7,"Tableau, NumPy, Pandas, LLMs, Statistics, Scikit-learn, BigQuery",2,39,157,18,291,1,90,38.4,Ahmedabad
+CAND_0450,1,junior,Tier-3,9.42,4,"Computer Vision, LLMs, Vector Databases, TensorFlow",3,722,836,99,58,3,90,32.2,Hyderabad
+CAND_0451,8,senior,BITS,6.04,9,"dbt, Snowflake, BigQuery, Tableau, RAG, SQL, Airflow, Spark, TensorFlow",1,195,433,30,111,0,90,41.0,Ahmedabad
+CAND_0452,0,fresher,IIT,9.36,5,"ML, RAG, NumPy, Snowflake, Pandas",1,158,482,34,663,7,90,40.3,Delhi
+CAND_0453,0,junior,IIT,6.57,7,"Python, Hadoop, TensorFlow, ML, PyTorch, RAG, BigQuery",1,0,12,1,227,3,0,32.4,Kolkata
+CAND_0454,0,junior,IIT,8.08,5,"SQL, Tableau, R, Vector Databases, Scikit-learn",2,10,49,6,743,8,0,29.6,Bangalore
+CAND_0455,1,junior,BITS,9.59,3,"Python, RAG, R",3,9,10,7,577,8,60,6.3,Pune
+CAND_0456,1,junior,Tier-3,8.08,4,"Statistics, Vector Databases, ML, NLP",0,144,500,49,337,8,60,51.3,Kolkata
+CAND_0457,2,junior,NIT,6.48,6,"dbt, Computer Vision, BigQuery, ML, Statistics, TensorFlow",2,94,461,15,1930,25,0,34.3,Delhi
+CAND_0458,0,junior,Tier-2,9.57,4,"NumPy, NLP, Snowflake, Power BI",0,108,448,28,3854,25,15,4.2,Kolkata
+CAND_0459,1,junior,IIT,8.7,3,"Computer Vision, Hadoop, Scikit-learn",3,103,469,27,51,0,90,14.2,Remote
+CAND_0460,0,junior,IIT,9.78,7,"Python, Snowflake, SQL, R, Spark, Statistics, LLMs",0,1730,1401,61,680,8,15,15.2,Bangalore
+CAND_0461,6,senior,Tier-2,8.59,8,"BigQuery, ML, Tableau, Statistics, Power BI, RAG, Scikit-learn, NumPy",1,2,37,1,318,7,90,41.2,Delhi
+CAND_0462,2,mid,BITS,6.81,8,"Power BI, NumPy, Airflow, BigQuery, R, Hadoop, XGBoost, Statistics",1,96,307,18,576,3,60,55.9,Bangalore
+CAND_0463,1,junior,Tier-2,7.34,4,"ML, TensorFlow, Vector Databases, Python",2,45,336,42,781,9,30,43.4,Delhi
+CAND_0464,2,mid,NIT,6.64,8,"Scikit-learn, Power BI, XGBoost, SQL, TensorFlow, Python, LLMs, NumPy",2,11,93,10,225,2,30,6.5,Chennai
+CAND_0465,2,junior,NIT,9.21,7,"Spark, RAG, ML, LLMs, MLflow, Python, Scikit-learn",1,11,26,0,749,6,30,7.6,Remote
+CAND_0466,2,junior,Tier-2,9.35,5,"MLflow, Scikit-learn, Spark, LLMs, ML",0,1369,938,190,330,4,0,47.6,Ahmedabad
+CAND_0467,0,fresher,IIT,8.72,4,"Tableau, ML, RAG, Spark",3,0,19,7,2540,22,15,20.0,Delhi
+CAND_0468,3,mid,IIT,8.39,6,"Power BI, Pandas, SQL, Python, R, ML",1,7,27,9,853,19,90,35.2,Chennai
+CAND_0469,0,fresher,NIT,6.33,5,"R, Scikit-learn, Airflow, LLMs, TensorFlow",1,14,13,9,82,0,15,16.6,Mumbai
+CAND_0470,0,junior,Tier-3,8.66,7,"SQL, Spark, BigQuery, Pandas, RAG, ML, Snowflake",0,10,80,8,341,8,0,25.4,Ahmedabad
+CAND_0471,0,junior,Tier-3,8.03,7,"NLP, NumPy, BigQuery, ML, Snowflake, TensorFlow, RAG",2,65,382,23,207,2,15,7.3,Hyderabad
+CAND_0472,9,senior,NIT,8.78,9,"ML, NLP, RAG, PyTorch, Python, NumPy, Computer Vision, Vector Databases, R",2,1033,759,151,400,3,60,29.6,Hyderabad
+CAND_0473,3,mid,IIT,8.6,9,"LLMs, MLflow, SQL, Snowflake, Tableau, Hadoop, R, TensorFlow, BigQuery",2,148,128,33,153,2,0,25.5,Ahmedabad
+CAND_0474,2,junior,Tier-2,7.38,7,"MLflow, XGBoost, Tableau, Computer Vision, R, dbt, Airflow",1,4,31,6,368,9,30,16.1,Pune
+CAND_0475,4,mid,Tier-2,7.01,5,"Statistics, Vector Databases, Snowflake, NLP, LLMs",2,1143,1497,97,3795,11,30,57.2,Hyderabad
+CAND_0476,0,fresher,IIT,8.68,5,"Hadoop, Python, Spark, Vector Databases, XGBoost",3,81,323,33,588,10,90,47.5,Kolkata
+CAND_0477,5,mid,BITS,6.48,7,"Python, Statistics, RAG, MLflow, ML, Power BI, Tableau",2,54,222,33,697,4,30,6.9,Kolkata
+CAND_0478,0,junior,NIT,9.58,5,"PyTorch, RAG, R, dbt, ML",3,40,288,45,528,4,30,49.7,Chennai
+CAND_0479,2,junior,Tier-3,6.99,3,"PyTorch, Computer Vision, TensorFlow",1,13,34,3,169,0,0,55.8,Bangalore
+CAND_0480,1,junior,IIT,6.09,7,"R, Python, NumPy, Snowflake, TensorFlow, RAG, SQL",1,180,455,15,553,5,90,23.4,Mumbai
+CAND_0481,2,junior,IIT,8.28,6,"Spark, NumPy, MLflow, NLP, RAG, PyTorch",3,1066,937,72,559,8,0,34.9,Kolkata
+CAND_0482,5,mid,Tier-3,8.99,9,"Hadoop, R, Pandas, Python, Snowflake, RAG, NumPy, MLflow, NLP",3,4,28,2,770,3,15,23.4,Pune
+CAND_0483,0,fresher,Tier-2,7.54,4,"PyTorch, Spark, Computer Vision, R",3,0,72,10,3382,17,30,12.3,Mumbai
+CAND_0484,0,fresher,NIT,7.52,5,"Scikit-learn, ML, Vector Databases, Snowflake, LLMs",2,114,144,37,2992,12,30,4.9,Chennai
+CAND_0485,0,fresher,NIT,8.25,4,"TensorFlow, R, Snowflake, Python",1,4,49,1,2453,28,90,26.6,Kolkata
+CAND_0486,0,junior,Tier-3,6.82,6,"Scikit-learn, SQL, NLP, TensorFlow, NumPy, dbt",0,11,40,10,779,6,0,39.3,Hyderabad
+CAND_0487,3,mid,Tier-2,6.69,6,"Pandas, ML, SQL, Spark, Python, LLMs",3,99,378,37,554,9,0,27.5,Ahmedabad
+CAND_0488,5,mid,IIT,6.98,5,"Scikit-learn, Spark, Power BI, RAG, Snowflake",1,7,51,3,325,8,30,10.2,Bangalore
+CAND_0489,2,junior,NIT,7.62,5,"BigQuery, NLP, Statistics, ML, MLflow",3,176,162,35,591,6,60,20.0,Pune
+CAND_0490,1,junior,IIT,8.0,4,"ML, Power BI, BigQuery, Airflow",2,3,71,0,4723,20,60,24.8,Chennai
+CAND_0491,3,mid,NIT,6.04,7,"Tableau, Hadoop, SQL, NumPy, NLP, Scikit-learn, ML",1,1919,982,50,192,3,30,43.5,Hyderabad
+CAND_0492,2,junior,Tier-2,7.51,3,"Statistics, Spark, R",3,20,23,0,3267,17,60,47.8,Kolkata
+CAND_0493,2,junior,Tier-2,8.7,5,"MLflow, ML, R, NumPy, Computer Vision",3,32,183,20,717,7,30,44.9,Chennai
+CAND_0494,0,junior,IIT,7.98,4,"NumPy, Python, Power BI, Hadoop",1,37,475,17,4304,24,15,47.5,Ahmedabad
+CAND_0495,0,junior,IIT,6.66,3,"TensorFlow, Scikit-learn, Vector Databases",3,24,146,39,233,1,30,7.3,Delhi
+CAND_0496,2,junior,Tier-3,8.77,6,"XGBoost, Airflow, Pandas, NLP, LLMs, TensorFlow",3,196,275,34,4029,27,15,57.0,Pune
+CAND_0497,5,mid,IIT,9.02,6,"R, Pandas, BigQuery, dbt, RAG, MLflow",0,19,29,5,353,7,0,31.7,Chennai
+CAND_0498,5,mid,BITS,6.95,6,"Spark, Tableau, NumPy, RAG, Pandas, Hadoop",3,9,74,8,555,8,15,4.6,Ahmedabad
+CAND_0499,4,mid,Tier-2,6.72,8,"Hadoop, Airflow, Computer Vision, LLMs, PyTorch, TensorFlow, Power BI, Vector Databases",1,19,27,0,634,8,0,8.0,Delhi
+CAND_0500,0,fresher,IIT,8.25,5,"Scikit-learn, Airflow, dbt, LLMs, Vector Databases",1,2,52,10,432,3,0,16.5,Mumbai
